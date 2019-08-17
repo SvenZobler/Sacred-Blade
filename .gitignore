@@ -126,3 +126,12 @@ Saved/Autosaves/PackageRestoreData.json
 Saved/AutoScreenshot.png
 Saved/Autosaves/Game/Levels/TestMap_Auto3.umap
 Intermediate/CachedAssetRegistry.bin
+*.bin
+*.ini
+*.log
+*.json
+*.png
+Saved/AutoScreenshot.png
+*.png
+*.ini
+Saved/Config/Windows/EditorPerProjectUserSettings.ini
