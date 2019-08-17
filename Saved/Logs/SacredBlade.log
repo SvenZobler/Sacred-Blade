@@ -1959,3 +1959,148 @@ Make sure 'PauseMenu' has been compiled for  Un Pause Game
 [2019.08.17-17.59.21:098][132]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
 [2019.08.17-17.59.21:217][132]LogUObjectHash: Compacting FUObjectHashTables data took   7.13ms
 [2019.08.17-17.59.21:358][133]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2019.08.17-18.06.03:557][861]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Sounds/AssasssinFootsteps" FILE="../../../../../../Users/KEOrlando/Documents/GitHub/Sacred-Blade/Content/UI/Sounds/AssasssinFootsteps.uasset" SILENT=true
+[2019.08.17-18.06.03:571][861]LogSavePackage: Moving '../../../../../../Users/KEOrlando/Documents/GitHub/Sacred-Blade/Saved/AssasssinFootsteps064FFB5D41F89A46F2C3399AE6E61032.tmp' to '../../../../../../Users/KEOrlando/Documents/GitHub/Sacred-Blade/Content/UI/Sounds/AssasssinFootsteps.uasset'
+[2019.08.17-18.06.03:594][861]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Sounds/BeserkerFootsteps" FILE="../../../../../../Users/KEOrlando/Documents/GitHub/Sacred-Blade/Content/UI/Sounds/BeserkerFootsteps.uasset" SILENT=true
+[2019.08.17-18.06.03:625][861]LogSavePackage: Moving '../../../../../../Users/KEOrlando/Documents/GitHub/Sacred-Blade/Saved/BeserkerFootsteps383F41104CC68CE954DDDCAF8BBF683A.tmp' to '../../../../../../Users/KEOrlando/Documents/GitHub/Sacred-Blade/Content/UI/Sounds/BeserkerFootsteps.uasset'
+[2019.08.17-18.06.03:661][861]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Sounds/Dragon_Growl_00" FILE="../../../../../../Users/KEOrlando/Documents/GitHub/Sacred-Blade/Content/UI/Sounds/Dragon_Growl_00.uasset" SILENT=true
+[2019.08.17-18.06.03:690][861]LogSavePackage: Moving '../../../../../../Users/KEOrlando/Documents/GitHub/Sacred-Blade/Saved/Dragon_Growl_00CB6388C44B802CDA9633E3B940AF1CF3.tmp' to '../../../../../../Users/KEOrlando/Documents/GitHub/Sacred-Blade/Content/UI/Sounds/Dragon_Growl_00.uasset'
+[2019.08.17-18.06.03:723][861]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Sounds/Dragon_Growl_01" FILE="../../../../../../Users/KEOrlando/Documents/GitHub/Sacred-Blade/Content/UI/Sounds/Dragon_Growl_01.uasset" SILENT=true
+[2019.08.17-18.06.03:755][861]LogSavePackage: Moving '../../../../../../Users/KEOrlando/Documents/GitHub/Sacred-Blade/Saved/Dragon_Growl_017EEFABAF43C369FFF6A3BAB32044EDBE.tmp' to '../../../../../../Users/KEOrlando/Documents/GitHub/Sacred-Blade/Content/UI/Sounds/Dragon_Growl_01.uasset'
+[2019.08.17-18.06.03:793][861]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Sounds/Footstep_Water_00" FILE="../../../../../../Users/KEOrlando/Documents/GitHub/Sacred-Blade/Content/UI/Sounds/Footstep_Water_00.uasset" SILENT=true
+[2019.08.17-18.06.03:820][861]LogSavePackage: Moving '../../../../../../Users/KEOrlando/Documents/GitHub/Sacred-Blade/Saved/Footstep_Water_0068232B904BD5C220B42135A8DA4E17C4.tmp' to '../../../../../../Users/KEOrlando/Documents/GitHub/Sacred-Blade/Content/UI/Sounds/Footstep_Water_00.uasset'
+[2019.08.17-18.06.03:852][861]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Sounds/Footstep_Water_01" FILE="../../../../../../Users/KEOrlando/Documents/GitHub/Sacred-Blade/Content/UI/Sounds/Footstep_Water_01.uasset" SILENT=true
+[2019.08.17-18.06.03:882][861]LogSavePackage: Moving '../../../../../../Users/KEOrlando/Documents/GitHub/Sacred-Blade/Saved/Footstep_Water_014E096C36434AE66174E1B483CCFF4562.tmp' to '../../../../../../Users/KEOrlando/Documents/GitHub/Sacred-Blade/Content/UI/Sounds/Footstep_Water_01.uasset'
+[2019.08.17-18.06.03:912][861]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Sounds/Footstep_Water_02" FILE="../../../../../../Users/KEOrlando/Documents/GitHub/Sacred-Blade/Content/UI/Sounds/Footstep_Water_02.uasset" SILENT=true
+[2019.08.17-18.06.03:942][861]LogSavePackage: Moving '../../../../../../Users/KEOrlando/Documents/GitHub/Sacred-Blade/Saved/Footstep_Water_029A7D89FF43CD2ED589093BAFC6AEAA4E.tmp' to '../../../../../../Users/KEOrlando/Documents/GitHub/Sacred-Blade/Content/UI/Sounds/Footstep_Water_02.uasset'
+[2019.08.17-18.06.03:976][861]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Sounds/Footstep_Water_03" FILE="../../../../../../Users/KEOrlando/Documents/GitHub/Sacred-Blade/Content/UI/Sounds/Footstep_Water_03.uasset" SILENT=true
+[2019.08.17-18.06.04:006][861]LogSavePackage: Moving '../../../../../../Users/KEOrlando/Documents/GitHub/Sacred-Blade/Saved/Footstep_Water_030C0B40064E437E945543C3A2DE1938C3.tmp' to '../../../../../../Users/KEOrlando/Documents/GitHub/Sacred-Blade/Content/UI/Sounds/Footstep_Water_03.uasset'
+[2019.08.17-18.06.04:040][861]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Sounds/Footstep_Water_06" FILE="../../../../../../Users/KEOrlando/Documents/GitHub/Sacred-Blade/Content/UI/Sounds/Footstep_Water_06.uasset" SILENT=true
+[2019.08.17-18.06.04:070][861]LogSavePackage: Moving '../../../../../../Users/KEOrlando/Documents/GitHub/Sacred-Blade/Saved/Footstep_Water_06C87F995242AE4ECF57D4B69E4E30307D.tmp' to '../../../../../../Users/KEOrlando/Documents/GitHub/Sacred-Blade/Content/UI/Sounds/Footstep_Water_06.uasset'
+[2019.08.17-18.06.04:104][861]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Sounds/Footstep_Water_07" FILE="../../../../../../Users/KEOrlando/Documents/GitHub/Sacred-Blade/Content/UI/Sounds/Footstep_Water_07.uasset" SILENT=true
+[2019.08.17-18.06.04:135][861]LogSavePackage: Moving '../../../../../../Users/KEOrlando/Documents/GitHub/Sacred-Blade/Saved/Footstep_Water_07ED4CF4BC4639169AECD9DCB98EFFFD59.tmp' to '../../../../../../Users/KEOrlando/Documents/GitHub/Sacred-Blade/Content/UI/Sounds/Footstep_Water_07.uasset'
+[2019.08.17-18.06.04:176][861]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Sounds/WizardUlt" FILE="../../../../../../Users/KEOrlando/Documents/GitHub/Sacred-Blade/Content/UI/Sounds/WizardUlt.uasset" SILENT=true
+[2019.08.17-18.06.04:212][861]LogSavePackage: Moving '../../../../../../Users/KEOrlando/Documents/GitHub/Sacred-Blade/Saved/WizardUltCC99681143922D1A607C1D9C2AA64345.tmp' to '../../../../../../Users/KEOrlando/Documents/GitHub/Sacred-Blade/Content/UI/Sounds/WizardUlt.uasset'
+[2019.08.17-18.06.04:247][861]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Sounds/WizardFootsteps" FILE="../../../../../../Users/KEOrlando/Documents/GitHub/Sacred-Blade/Content/UI/Sounds/WizardFootsteps.uasset" SILENT=true
+[2019.08.17-18.06.04:277][861]LogSavePackage: Moving '../../../../../../Users/KEOrlando/Documents/GitHub/Sacred-Blade/Saved/WizardFootstepsCC34E10E43AE10345277A2A3DC4F43F8.tmp' to '../../../../../../Users/KEOrlando/Documents/GitHub/Sacred-Blade/Content/UI/Sounds/WizardFootsteps.uasset'
+[2019.08.17-18.06.04:312][861]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Sounds/Spell_01" FILE="../../../../../../Users/KEOrlando/Documents/GitHub/Sacred-Blade/Content/UI/Sounds/Spell_01.uasset" SILENT=true
+[2019.08.17-18.06.04:344][861]LogSavePackage: Moving '../../../../../../Users/KEOrlando/Documents/GitHub/Sacred-Blade/Saved/Spell_01EA2A23114743324E5E038C9BF5D9B550.tmp' to '../../../../../../Users/KEOrlando/Documents/GitHub/Sacred-Blade/Content/UI/Sounds/Spell_01.uasset'
+[2019.08.17-18.06.04:376][861]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Sounds/Spell_00" FILE="../../../../../../Users/KEOrlando/Documents/GitHub/Sacred-Blade/Content/UI/Sounds/Spell_00.uasset" SILENT=true
+[2019.08.17-18.06.04:407][861]LogSavePackage: Moving '../../../../../../Users/KEOrlando/Documents/GitHub/Sacred-Blade/Saved/Spell_00156695074E8E6E64EA0A4DBBCD27CCF2.tmp' to '../../../../../../Users/KEOrlando/Documents/GitHub/Sacred-Blade/Content/UI/Sounds/Spell_00.uasset'
+[2019.08.17-18.06.04:441][861]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Sounds/RPG_Menu_move_02" FILE="../../../../../../Users/KEOrlando/Documents/GitHub/Sacred-Blade/Content/UI/Sounds/RPG_Menu_move_02.uasset" SILENT=true
+[2019.08.17-18.06.04:464][861]LogSavePackage: Moving '../../../../../../Users/KEOrlando/Documents/GitHub/Sacred-Blade/Saved/RPG_Menu_move_02CC91963046BC9D084586FF86EA63696A.tmp' to '../../../../../../Users/KEOrlando/Documents/GitHub/Sacred-Blade/Content/UI/Sounds/RPG_Menu_move_02.uasset'
+[2019.08.17-18.06.04:487][861]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Sounds/RangerFootsteps" FILE="../../../../../../Users/KEOrlando/Documents/GitHub/Sacred-Blade/Content/UI/Sounds/RangerFootsteps.uasset" SILENT=true
+[2019.08.17-18.06.04:501][861]LogSavePackage: Moving '../../../../../../Users/KEOrlando/Documents/GitHub/Sacred-Blade/Saved/RangerFootstepsF04A2177422734B1E4F2049C82E05EC4.tmp' to '../../../../../../Users/KEOrlando/Documents/GitHub/Sacred-Blade/Content/UI/Sounds/RangerFootsteps.uasset'
+[2019.08.17-18.06.04:519][861]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Sounds/Menu_Select_00" FILE="../../../../../../Users/KEOrlando/Documents/GitHub/Sacred-Blade/Content/UI/Sounds/Menu_Select_00.uasset" SILENT=true
+[2019.08.17-18.06.04:536][861]LogSavePackage: Moving '../../../../../../Users/KEOrlando/Documents/GitHub/Sacred-Blade/Saved/Menu_Select_00D6B2199543B4B7005790F38D77339504.tmp' to '../../../../../../Users/KEOrlando/Documents/GitHub/Sacred-Blade/Content/UI/Sounds/Menu_Select_00.uasset'
+[2019.08.17-18.06.07:265][861]LogUObjectHash: Compacting FUObjectHashTables data took   3.25ms
+[2019.08.17-18.06.07:318][861]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2019.08.17-18.06.07:363][861]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2019.08.17-18.06.07:405][861]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2019.08.17-18.06.07:446][861]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2019.08.17-18.06.07:496][861]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2019.08.17-18.06.07:540][861]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2019.08.17-18.06.07:592][861]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2019.08.17-18.06.07:650][861]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2019.08.17-18.06.07:734][861]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2019.08.17-18.06.07:781][861]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2019.08.17-18.06.07:825][861]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2019.08.17-18.06.07:872][861]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2019.08.17-18.06.07:931][861]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2019.08.17-18.06.07:979][861]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2019.08.17-18.06.08:030][861]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2019.08.17-18.06.08:086][861]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2019.08.17-18.06.08:151][861]LogUObjectHash: Compacting FUObjectHashTables data took   3.60ms
+[2019.08.17-18.06.08:211][861]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2019.08.17-18.06.11:036][983]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MainMenu" FILE="../../../../../../Users/KEOrlando/Documents/GitHub/Sacred-Blade/Content/Levels/MainMenu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.08.17-18.06.11:090][983]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2019.08.17-18.06.11:326][983]LogSavePackage: Moving '../../../../../../Users/KEOrlando/Documents/GitHub/Sacred-Blade/Saved/MainMenu39340A2241C6E2C8E372C9886A9E975D.tmp' to '../../../../../../Users/KEOrlando/Documents/GitHub/Sacred-Blade/Content/Levels/MainMenu.umap'
+[2019.08.17-18.06.18:402][537]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu/PauseMenu" FILE="../../../../../../Users/KEOrlando/Documents/GitHub/Sacred-Blade/Content/UI/MainMenu/PauseMenu.uasset" SILENT=true
+[2019.08.17-18.06.18:477][537]LogSavePackage: Moving '../../../../../../Users/KEOrlando/Documents/GitHub/Sacred-Blade/Saved/PauseMenu31E38C894966E1DD501D1EAEB1C1CB19.tmp' to '../../../../../../Users/KEOrlando/Documents/GitHub/Sacred-Blade/Content/UI/MainMenu/PauseMenu.uasset'
+[2019.08.17-18.06.19:467][637]BlueprintLog: New page: Compile PauseMenu
+[2019.08.17-18.06.19:689][637]LogUObjectHash: Compacting FUObjectHashTables data took   4.30ms
+[2019.08.17-18.06.24:021][  5]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.08.17-18.06.24:060][  5]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.08.17-18.06.24:060][  5]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.17-18.06.24:061][  5]PIE: New page: PIE session: MainMenu (Aug 17, 2019, 10:06:24 AM)
+[2019.08.17-18.06.24:061][  5]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainMenu
+[2019.08.17-18.06.24:062][  5]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001583s)
+[2019.08.17-18.06.24:063][  5]LogAIModule: Creating AISystem for world MainMenu
+[2019.08.17-18.06.24:063][  5]LogPlayLevel: PIE: World Init took: (0.000946s)
+[2019.08.17-18.06.24:063][  5]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainMenu.MainMenu to /Game/Levels/UEDPIE_0_MainMenu.MainMenu (0.002684s)
+[2019.08.17-18.06.24:135][  5]LogUObjectHash: Compacting FUObjectHashTables data took   7.12ms
+[2019.08.17-18.06.24:152][  5]LogInit: XAudio2 using 'Headphones (Conexant ISST Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.17-18.06.24:166][  5]LogInit: FAudioDevice initialized.
+[2019.08.17-18.06.24:172][  5]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.17-18.06.24:206][  5]LogLoad: Game class is 'BP_GameMode_C'
+[2019.08.17-18.06.24:208][  5]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2019.08.17-14.06.24
+[2019.08.17-18.06.24:208][  5]LogWorld: Bringing up level for play took: 0.000740
+[2019.08.17-18.06.24:224][  5]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/UI/Widgets/W_BossHealthBar.W_BossHealthBar_C:ExecuteUbergraph_W_BossHealthBar'!
+[2019.08.17-18.06.24:225][  5]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.08.17-18.06.24:230][  5]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MainMenu -0.708
+[2019.08.17-18.06.24:230][  5]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.08.17-18.06.25:027][ 49]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.17-18.06.25:102][ 53]LogNet: Browse: /Game/Levels/TestMap
+[2019.08.17-18.06.25:102][ 53]LogLoad: LoadMap: /Game/Levels/TestMap
+[2019.08.17-18.06.25:164][ 53]LogUObjectHash: Compacting FUObjectHashTables data took   3.65ms
+[2019.08.17-18.06.25:197][ 53]LogAIModule: Creating AISystem for world TestMap
+[2019.08.17-18.06.25:197][ 53]LogLoad: Game class is 'BP_GameMode_C'
+[2019.08.17-18.06.25:202][ 53]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2019.08.17-14.06.25
+[2019.08.17-18.06.25:202][ 53]LogWorld: Bringing up level for play took: 0.003613
+[2019.08.17-18.06.25:204][ 53]LogLoad: Took 0.102334 seconds to LoadMap(/Game/Levels/TestMap)
+[2019.08.17-18.06.26:979][157]LogSlate: Window 'SacredBlade Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.08.17-18.06.26:988][157]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.08.17-18.06.27:023][157]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.17-18.06.27:024][157]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.08.17-18.06.27:126][157]LogUObjectHash: Compacting FUObjectHashTables data took   5.15ms
+[2019.08.17-18.06.27:219][158]LogPlayLevel: Display: Destroying online subsystem :Context_41
+[2019.08.17-18.06.30:245][414]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.08.17-18.06.30:285][414]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.08.17-18.06.30:285][414]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.17-18.06.30:286][414]PIE: New page: PIE session: MainMenu (Aug 17, 2019, 10:06:30 AM)
+[2019.08.17-18.06.30:286][414]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainMenu
+[2019.08.17-18.06.30:288][414]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001866s)
+[2019.08.17-18.06.30:288][414]LogAIModule: Creating AISystem for world MainMenu
+[2019.08.17-18.06.30:289][414]LogPlayLevel: PIE: World Init took: (0.000793s)
+[2019.08.17-18.06.30:289][414]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainMenu.MainMenu to /Game/Levels/UEDPIE_0_MainMenu.MainMenu (0.002838s)
+[2019.08.17-18.06.30:354][414]LogUObjectHash: Compacting FUObjectHashTables data took   4.31ms
+[2019.08.17-18.06.30:366][414]LogInit: XAudio2 using 'Headphones (Conexant ISST Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.17-18.06.30:384][414]LogInit: FAudioDevice initialized.
+[2019.08.17-18.06.30:394][414]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.17-18.06.30:426][414]LogLoad: Game class is 'BP_GameMode_C'
+[2019.08.17-18.06.30:427][414]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2019.08.17-14.06.30
+[2019.08.17-18.06.30:428][414]LogWorld: Bringing up level for play took: 0.000444
+[2019.08.17-18.06.30:441][414]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/UI/Widgets/W_BossHealthBar.W_BossHealthBar_C:ExecuteUbergraph_W_BossHealthBar'!
+[2019.08.17-18.06.30:443][414]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.08.17-18.06.30:444][414]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MainMenu -0.493
+[2019.08.17-18.06.30:445][414]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.08.17-18.06.31:885][493]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.17-18.06.32:026][502]LogSlate: Window 'SacredBlade Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.08.17-18.06.32:036][502]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.08.17-18.06.32:068][502]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.17-18.06.32:069][502]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.08.17-18.06.32:192][502]LogUObjectHash: Compacting FUObjectHashTables data took   5.71ms
+[2019.08.17-18.06.32:286][503]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2019.08.17-18.08.09:233][149]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (22.582 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.17-18.09.50:483][ 65]LogAssetTools: Warning: Failed to import 'C:\Users\KEOrlando\Documents\Unreal Projects\MainMenu\Content\FantasyOrchestral\cues\EpicFantasy.uasset'. Unknown extension 'uasset'.
+[2019.08.17-18.10.33:653][272]LogLinker: Warning: Can't find file '/Game/FantasyOrchestral/audio/Epic_Fantasy'
+[2019.08.17-18.10.33:654][272]LogLinker: Warning: Can't find file for asset '/Game/FantasyOrchestral/audio/Epic_Fantasy' while loading NULL.
+[2019.08.17-18.10.33:654][272]LogLinker: Warning: Can't find file '/Game/FantasyOrchestral/audio/Epic_Fantasy'
+[2019.08.17-18.10.33:654][272]LogLinker: Warning: Can't find file for asset '/Game/FantasyOrchestral/audio/Epic_Fantasy' while loading NULL.
+[2019.08.17-18.10.33:655][272]LogLinker: Warning: Can't find file '/Game/FantasyOrchestral/audio/Epic_Fantasy'
+[2019.08.17-18.10.33:655][272]LoadErrors: Failed to load /Game/FantasyOrchestral/audio/Epic_Fantasy.Epic_Fantasy Referenced by SoundNodeWavePlayer_3
+[2019.08.17-18.10.33:655][272]LogLinker: Warning: Can't find file for asset '/Game/FantasyOrchestral/audio/Epic_Fantasy' while loading NULL.
+[2019.08.17-18.11.30:152][957]LogUObjectHash: Compacting FUObjectHashTables data took   3.80ms
+[2019.08.17-18.11.31:284][957]LogSlate: Window 'Delete Assets' being destroyed
+[2019.08.17-18.11.31:422][957]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2019.08.17-18.11.31:473][957]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2019.08.17-18.11.31:515][957]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2019.08.17-18.11.37:380][365]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu
+[2019.08.17-18.11.54:177][912]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MainMenu" FILE="../../../../../../Users/KEOrlando/Documents/GitHub/Sacred-Blade/Content/Levels/MainMenu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.08.17-18.11.54:233][912]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2019.08.17-18.11.54:439][912]LogSavePackage: Moving '../../../../../../Users/KEOrlando/Documents/GitHub/Sacred-Blade/Saved/MainMenuD4125A004B1041C3E6211EA11FB6EE4A.tmp' to '../../../../../../Users/KEOrlando/Documents/GitHub/Sacred-Blade/Content/Levels/MainMenu.umap'
+[2019.08.17-18.12.11:327][476]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.08.17-18.12.23:414][370]LogUObjectHash: Compacting FUObjectHashTables data took   4.29ms
+[2019.08.17-18.12.24:724][370]LogSlate: Window 'Save Content' being destroyed
+[2019.08.17-18.12.24:764][370]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu/MainMenu" FILE="../../../../../../Users/KEOrlando/Documents/GitHub/Sacred-Blade/Content/UI/MainMenu/MainMenu.uasset" SILENT=true
+[2019.08.17-18.12.24:833][370]LogSavePackage: Moving '../../../../../../Users/KEOrlando/Documents/GitHub/Sacred-Blade/Saved/MainMenu9EB1267145BFD3524301DB8356CE0305.tmp' to '../../../../../../Users/KEOrlando/Documents/GitHub/Sacred-Blade/Content/UI/MainMenu/MainMenu.uasset'
