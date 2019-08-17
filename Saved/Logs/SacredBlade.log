@@ -1953,3 +1953,9 @@ Make sure 'PauseMenu' has been compiled for  Un Pause Game
 [2019.08.17-17.53.50:178][ 22]LogLoad: Took 0.101621 seconds to LoadMap(/Game/Levels/TestMap)
 [2019.08.17-17.53.57:822][466]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu/MainMenu" FILE="../../../../../../Users/KEOrlando/Documents/GitHub/Sacred-Blade/Content/UI/MainMenu/MainMenu.uasset" SILENT=true
 [2019.08.17-17.53.57:876][466]LogSavePackage: Moving '../../../../../../Users/KEOrlando/Documents/GitHub/Sacred-Blade/Saved/MainMenuA19B2A39425230F805559FA7E7957262.tmp' to '../../../../../../Users/KEOrlando/Documents/GitHub/Sacred-Blade/Content/UI/MainMenu/MainMenu.uasset'
+[2019.08.17-17.59.21:039][132]LogSlate: Window 'SacredBlade Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.08.17-17.59.21:061][132]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.08.17-17.59.21:097][132]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.17-17.59.21:098][132]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.08.17-17.59.21:217][132]LogUObjectHash: Compacting FUObjectHashTables data took   7.13ms
+[2019.08.17-17.59.21:358][133]LogPlayLevel: Display: Destroying online subsystem :Context_40
