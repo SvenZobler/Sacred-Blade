@@ -3108,3 +3108,639 @@ Script call stack:
 [2019.08.18-05.49.53:904][569]LogSavePackage: Moving '../../../../SacredBlade/SacredBlade/Sacred-Blade/Saved/BP_GameMode9E8B607D4339244CB28275BAB2499030.tmp' to '../../../../SacredBlade/SacredBlade/Sacred-Blade/Content/Blueprints/BP_GameMode.uasset'
 [2019.08.18-05.49.53:918][569]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Wizard/BP_Player_Wizard" FILE="../../../../SacredBlade/SacredBlade/Sacred-Blade/Content/Blueprints/Wizard/BP_Player_Wizard.uasset" SILENT=true
 [2019.08.18-05.49.53:971][569]LogSavePackage: Moving '../../../../SacredBlade/SacredBlade/Sacred-Blade/Saved/BP_Player_WizardE66D675D4292A9AD09149A897922596E.tmp' to '../../../../SacredBlade/SacredBlade/Sacred-Blade/Content/Blueprints/Wizard/BP_Player_Wizard.uasset'
+[2019.08.18-05.50.15:013][ 44]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Assassin/BP_Player_Assassin" FILE="../../../../SacredBlade/SacredBlade/Sacred-Blade/Content/Blueprints/Assassin/BP_Player_Assassin.uasset" SILENT=true
+[2019.08.18-05.50.15:061][ 44]LogSavePackage: Moving '../../../../SacredBlade/SacredBlade/Sacred-Blade/Saved/BP_Player_AssassinE1EA40FC43324AF08D3B99AC4816BBFE.tmp' to '../../../../SacredBlade/SacredBlade/Sacred-Blade/Content/Blueprints/Assassin/BP_Player_Assassin.uasset'
+[2019.08.18-05.50.18:433][437]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.08.18-05.52.28:523][ 73]LogEditorViewport: Clicking on Actor (LMB): BP_IcicleVolume_C (BP_IcicleVolume)
+[2019.08.18-05.53.01:387][890]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.18-05.53.03:960][197]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BP_IcicleVolume.BP_IcicleVolume
+[2019.08.18-05.56.43:323][725]LogEditorTransaction: Undo Move Nodes
+[2019.08.18-06.02.03:951][564]LogUObjectHash: Compacting FUObjectHashTables data took   4.02ms
+[2019.08.18-06.02.03:951][564]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/TestMap" FILE="../../../../SacredBlade/SacredBlade/Sacred-Blade/Saved/Autosaves/Game/Levels/TestMap_Auto3.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.08.18-06.02.04:140][564]LogSavePackage: Moving '../../../../SacredBlade/SacredBlade/Sacred-Blade/Saved/TestMap_Auto3F3BF5737464234DDF8AC5FB1E09C6AE4.tmp' to '../../../../SacredBlade/SacredBlade/Sacred-Blade/Saved/Autosaves/Game/Levels/TestMap_Auto3.umap'
+[2019.08.18-06.02.04:142][564]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/TestMap' took 0.232
+[2019.08.18-06.02.04:142][564]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.232
+[2019.08.18-06.02.04:144][564]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_IcicleVolume] ([1] browsable assets)...
+[2019.08.18-06.02.04:144][564]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_IcicleVolume]
+[2019.08.18-06.02.04:184][564]LogSavePackage: Moving '../../../../SacredBlade/SacredBlade/Sacred-Blade/Saved/BP_IcicleVolume_Auto3D34AECFB425B908F7241ABB0F4D27D82.tmp' to '../../../../SacredBlade/SacredBlade/Sacred-Blade/Saved/Autosaves/Game/Blueprints/BP_IcicleVolume_Auto3.uasset'
+[2019.08.18-06.02.04:185][564]LogFileHelpers: Auto-saving content packages took 0.041
+[2019.08.18-06.09.27:705][732]BlueprintLog: New page: Compile BP_IcicleVolume
+[2019.08.18-06.09.27:896][732]LogUObjectHash: Compacting FUObjectHashTables data took   3.60ms
+[2019.08.18-06.09.28:441][791]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_IcicleVolume" FILE="../../../../SacredBlade/SacredBlade/Sacred-Blade/Content/Blueprints/BP_IcicleVolume.uasset" SILENT=true
+[2019.08.18-06.09.28:479][791]LogSavePackage: Moving '../../../../SacredBlade/SacredBlade/Sacred-Blade/Saved/BP_IcicleVolume00250C90410280C8D88297BB97C70AB4.tmp' to '../../../../SacredBlade/SacredBlade/Sacred-Blade/Content/Blueprints/BP_IcicleVolume.uasset'
+[2019.08.18-06.09.29:944][964]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.18-06.09.29:971][964]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Levels/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.08.18-06.09.29:971][964]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.18-06.09.29:971][964]PIE: New page: PIE session: TestMap (Aug 17, 2019, 10:09:29 PM)
+[2019.08.18-06.09.29:971][964]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestMap
+[2019.08.18-06.09.29:975][964]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003048s)
+[2019.08.18-06.09.29:975][964]LogAIModule: Creating AISystem for world TestMap
+[2019.08.18-06.09.29:975][964]LogPlayLevel: PIE: World Init took: (0.000739s)
+[2019.08.18-06.09.29:975][964]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestMap.TestMap to /Game/Levels/UEDPIE_0_TestMap.TestMap (0.003881s)
+[2019.08.18-06.09.30:009][964]LogUObjectHash: Compacting FUObjectHashTables data took   3.18ms
+[2019.08.18-06.09.30:021][964]LogInit: XAudio2 using 'Speakers (Logitech G633 Gaming Headset)' : 6 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3f)
+[2019.08.18-06.09.30:035][964]LogInit: FAudioDevice initialized.
+[2019.08.18-06.09.30:067][964]LogLoad: Game class is 'BP_GameMode_C'
+[2019.08.18-06.09.30:068][964]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2019.08.18-02.09.30
+[2019.08.18-06.09.30:068][964]LogWorld: Bringing up level for play took: 0.000699
+[2019.08.18-06.09.30:081][964]PIE: Error: CreateWidget cannot be used on Player Controller with no attached player. BP_PlayerController_C_1 has no Player attached.
+[2019.08.18-06.09.30:081][964]PIE: Error: CreateWidget cannot be used on Player Controller with no attached player. BP_PlayerController_C_1 has no Player attached.
+[2019.08.18-06.09.30:082][964]PIE: Error: CreateWidget cannot be used on Player Controller with no attached player. BP_PlayerController_C_2 has no Player attached.
+[2019.08.18-06.09.30:082][964]PIE: Error: CreateWidget cannot be used on Player Controller with no attached player. BP_PlayerController_C_2 has no Player attached.
+[2019.08.18-06.09.30:083][964]PIE: Error: CreateWidget cannot be used on Player Controller with no attached player. BP_PlayerController_C_3 has no Player attached.
+[2019.08.18-06.09.30:083][964]PIE: Error: CreateWidget cannot be used on Player Controller with no attached player. BP_PlayerController_C_3 has no Player attached.
+[2019.08.18-06.09.30:083][964]LogPlayerManagement: Error: Failed to Create Player: Maximum number of players (4) already created.  Unable to create more.
+[2019.08.18-06.09.30:083][964]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_TestMap -0.17
+[2019.08.18-06.09.30:083][964]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Levels/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.08.18-06.09.40:962][267]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Levels/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.08.18-06.09.40:963][267]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.18-06.09.40:991][267]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.18-06.09.40:991][267]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Levels/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.08.18-06.09.41:029][267]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.18-06.09.41:034][267]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2019.08.18-06.09.41:042][267]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.18-06.09.41:068][268]LogPlayLevel: Display: Destroying online subsystem :Context_98
+[2019.08.18-06.09.45:275][765]LogSlate: Window 'Message Log' being destroyed
+[2019.08.18-06.09.45:279][765]LogSlate: Window 'Message Log' being destroyed
+[2019.08.18-06.10.09:862][738]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BP_Player_Parent.BP_Player_Parent
+[2019.08.18-06.10.35:295][223]BlueprintLog: New page: Compile BP_Player_Parent
+[2019.08.18-06.10.35:542][223]LogUObjectHash: Compacting FUObjectHashTables data took   3.75ms
+[2019.08.18-06.10.35:964][263]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Player_Parent" FILE="../../../../SacredBlade/SacredBlade/Sacred-Blade/Content/Blueprints/BP_Player_Parent.uasset" SILENT=true
+[2019.08.18-06.10.36:022][263]LogSavePackage: Moving '../../../../SacredBlade/SacredBlade/Sacred-Blade/Saved/BP_Player_ParentCCD919CA43E32CC08413B4B6650D9DB4.tmp' to '../../../../SacredBlade/SacredBlade/Sacred-Blade/Content/Blueprints/BP_Player_Parent.uasset'
+[2019.08.18-06.11.17:249][890]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start2)
+[2019.08.18-06.11.18:288][ 12]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.18-06.11.20:813][315]Cmd: ACTOR SELECT ALL
+[2019.08.18-06.11.21:978][449]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2019.08.18-06.11.22:851][547]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start2)
+[2019.08.18-06.11.24:328][722]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.18-06.11.39:607][765]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2019.08.18-06.11.40:079][818]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2019.08.18-06.11.41:052][932]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.18-06.11.44:972][402]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2019.08.18-06.11.45:585][472]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start4)
+[2019.08.18-06.11.46:345][560]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.18-06.11.49:382][924]LogEditorViewport: Clicking on Actor (LMB): Emitter (SnowSystem)
+[2019.08.18-06.11.49:952][989]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start3)
+[2019.08.18-06.11.50:874][ 97]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.18-06.11.59:223][735]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.08.18-06.11.59:988][819]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.08.18-06.12.07:199][644]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.08.18-06.12.51:179][418]LogUObjectHash: Compacting FUObjectHashTables data took   4.04ms
+[2019.08.18-06.12.51:180][418]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/TestMap" FILE="../../../../SacredBlade/SacredBlade/Sacred-Blade/Saved/Autosaves/Game/Levels/TestMap_Auto4.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.08.18-06.12.51:373][418]LogSavePackage: Moving '../../../../SacredBlade/SacredBlade/Sacred-Blade/Saved/TestMap_Auto4180E06D74C47DBD065819DAA6661B9D2.tmp' to '../../../../SacredBlade/SacredBlade/Sacred-Blade/Saved/Autosaves/Game/Levels/TestMap_Auto4.umap'
+[2019.08.18-06.12.51:375][418]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/TestMap' took 0.259
+[2019.08.18-06.12.51:375][418]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.259
+[2019.08.18-06.12.51:377][418]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/BP_Player_Parent] ([1] browsable assets)...
+[2019.08.18-06.12.51:386][418]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Player_Parent.BP_Player_Parent]
+[2019.08.18-06.12.51:386][418]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Player_Parent]
+[2019.08.18-06.12.51:445][418]LogSavePackage: Moving '../../../../SacredBlade/SacredBlade/Sacred-Blade/Saved/BP_Player_Parent_Auto49B4281CF4DDFD6689D4C728B4444CAB2.tmp' to '../../../../SacredBlade/SacredBlade/Sacred-Blade/Saved/Autosaves/Game/Blueprints/BP_Player_Parent_Auto4.uasset'
+[2019.08.18-06.12.51:445][418]LogFileHelpers: Auto-saving content packages took 0.068
+[2019.08.18-06.14.34:753][892]BlueprintLog: New page: Compile BP_Player_Parent
+[2019.08.18-06.14.34:989][892]LogUObjectHash: Compacting FUObjectHashTables data took   3.53ms
+[2019.08.18-06.14.35:182][907]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Player_Parent" FILE="../../../../SacredBlade/SacredBlade/Sacred-Blade/Content/Blueprints/BP_Player_Parent.uasset" SILENT=true
+[2019.08.18-06.14.35:243][907]LogSavePackage: Moving '../../../../SacredBlade/SacredBlade/Sacred-Blade/Saved/BP_Player_Parent873E6B864ACB6610F75178AC819E5CBC.tmp' to '../../../../SacredBlade/SacredBlade/Sacred-Blade/Content/Blueprints/BP_Player_Parent.uasset'
+[2019.08.18-06.15.30:469][268]BlueprintLog: New page: Compile BP_Player_Parent
+[2019.08.18-06.15.30:665][268]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
+[2019.08.18-06.15.31:822][400]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Player_Parent" FILE="../../../../SacredBlade/SacredBlade/Sacred-Blade/Content/Blueprints/BP_Player_Parent.uasset" SILENT=true
+[2019.08.18-06.15.31:885][400]LogSavePackage: Moving '../../../../SacredBlade/SacredBlade/Sacred-Blade/Saved/BP_Player_Parent5F6CDB8C4FC153D64A41F0A8CB6E807B.tmp' to '../../../../SacredBlade/SacredBlade/Sacred-Blade/Content/Blueprints/BP_Player_Parent.uasset'
+[2019.08.18-06.16.01:963][ 42]BlueprintLog: New page: Compile BP_Player_Parent
+[2019.08.18-06.16.02:169][ 42]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2019.08.18-06.16.02:343][ 52]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Player_Parent" FILE="../../../../SacredBlade/SacredBlade/Sacred-Blade/Content/Blueprints/BP_Player_Parent.uasset" SILENT=true
+[2019.08.18-06.16.02:409][ 52]LogSavePackage: Moving '../../../../SacredBlade/SacredBlade/Sacred-Blade/Saved/BP_Player_ParentD6097FF14D76B14763F0AE86D33113E1.tmp' to '../../../../SacredBlade/SacredBlade/Sacred-Blade/Content/Blueprints/BP_Player_Parent.uasset'
+[2019.08.18-06.16.06:023][480]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BP_GameMode.BP_GameMode
+[2019.08.18-06.16.15:989][479]BlueprintLog: New page: Compile BP_GameMode
+[2019.08.18-06.16.16:144][479]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2019.08.18-06.16.16:415][506]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_GameMode" FILE="../../../../SacredBlade/SacredBlade/Sacred-Blade/Content/Blueprints/BP_GameMode.uasset" SILENT=true
+[2019.08.18-06.16.16:451][506]LogSavePackage: Moving '../../../../SacredBlade/SacredBlade/Sacred-Blade/Saved/BP_GameModeC08B694E452D3C473EEFD4B213CBD60F.tmp' to '../../../../SacredBlade/SacredBlade/Sacred-Blade/Content/Blueprints/BP_GameMode.uasset'
+[2019.08.18-06.16.20:653][807]LogEditorTransaction: Undo Add Variable
+[2019.08.18-06.18.14:932][278]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.08.18-06.19.23:214][449]BlueprintLog: New page: Compile BP_Player_Parent
+[2019.08.18-06.19.23:420][449]LogUObjectHash: Compacting FUObjectHashTables data took   3.24ms
+[2019.08.18-06.19.23:736][478]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Player_Parent" FILE="../../../../SacredBlade/SacredBlade/Sacred-Blade/Content/Blueprints/BP_Player_Parent.uasset" SILENT=true
+[2019.08.18-06.19.23:800][478]LogSavePackage: Moving '../../../../SacredBlade/SacredBlade/Sacred-Blade/Saved/BP_Player_ParentEF57190942DD7A48C2E72DB26A9BA47F.tmp' to '../../../../SacredBlade/SacredBlade/Sacred-Blade/Content/Blueprints/BP_Player_Parent.uasset'
+[2019.08.18-06.19.31:923][663]BlueprintLog: New page: Compile BP_GameMode
+[2019.08.18-06.19.31:931][663]LogBlueprint: Error: [Compiler BP_GameMode] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' in action 'Begin Deferred Actor Spawn from Class' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2019.08.18-06.19.31:932][663]LogBlueprint: Error: [Compiler BP_GameMode] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' in action 'Finish Spawning Actor' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2019.08.18-06.19.32:080][663]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2019.08.18-06.19.32:087][663]LogBlueprint: Warning: [Compiler BP_GameMode] [5982.28] Compile of BP_GameMode failed. 2 Fatal Issue(s) 0 Warning(s) [in 164 ms] (/Game/Blueprints/BP_GameMode.BP_GameMode)
+[2019.08.18-06.19.55:724][978]BlueprintLog: New page: Compile BP_GameMode
+[2019.08.18-06.19.55:875][978]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2019.08.18-06.19.57:815][207]BlueprintLog: New page: Compile BP_Player_Parent
+[2019.08.18-06.19.58:014][207]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2019.08.18-06.20.29:457][813]BlueprintLog: New page: Compile BP_Player_Parent
+[2019.08.18-06.20.29:663][813]LogUObjectHash: Compacting FUObjectHashTables data took   3.32ms
+[2019.08.18-06.20.46:591][147]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_GameMode" FILE="../../../../SacredBlade/SacredBlade/Sacred-Blade/Content/Blueprints/BP_GameMode.uasset" SILENT=true
+[2019.08.18-06.20.46:627][147]LogSavePackage: Moving '../../../../SacredBlade/SacredBlade/Sacred-Blade/Saved/BP_GameModeC6ADCB954096769473F846AF728012C2.tmp' to '../../../../SacredBlade/SacredBlade/Sacred-Blade/Content/Blueprints/BP_GameMode.uasset'
+[2019.08.18-06.20.47:813][288]BlueprintLog: New page: Compile BP_Player_Parent
+[2019.08.18-06.20.48:021][288]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2019.08.18-06.20.48:235][305]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Player_Parent" FILE="../../../../SacredBlade/SacredBlade/Sacred-Blade/Content/Blueprints/BP_Player_Parent.uasset" SILENT=true
+[2019.08.18-06.20.48:298][305]LogSavePackage: Moving '../../../../SacredBlade/SacredBlade/Sacred-Blade/Saved/BP_Player_ParentF55B3AE640119FFA85BF27AF596A364C.tmp' to '../../../../SacredBlade/SacredBlade/Sacred-Blade/Content/Blueprints/BP_Player_Parent.uasset'
+[2019.08.18-06.22.51:711][488]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2019.08.18-06.22.51:711][488]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/TestMap" FILE="../../../../SacredBlade/SacredBlade/Sacred-Blade/Saved/Autosaves/Game/Levels/TestMap_Auto5.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.08.18-06.22.51:882][488]LogSavePackage: Moving '../../../../SacredBlade/SacredBlade/Sacred-Blade/Saved/TestMap_Auto59A753CAD48C848FF8B43FA85923D2397.tmp' to '../../../../SacredBlade/SacredBlade/Sacred-Blade/Saved/Autosaves/Game/Levels/TestMap_Auto5.umap'
+[2019.08.18-06.22.51:884][488]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/TestMap' took 0.200
+[2019.08.18-06.22.51:884][488]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.200
+[2019.08.18-06.22.51:885][488]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_GameMode] ([1] browsable assets)...
+[2019.08.18-06.22.51:885][488]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_GameMode]
+[2019.08.18-06.22.51:885][488]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_GameMode" FILE="../../../../SacredBlade/SacredBlade/Sacred-Blade/Saved/Autosaves/Game/Blueprints/BP_GameMode_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2019.08.18-06.22.51:926][488]LogSavePackage: Moving '../../../../SacredBlade/SacredBlade/Sacred-Blade/Saved/BP_GameMode_Auto544D2EE9246505E60E4BA2E909C5BC6BA.tmp' to '../../../../SacredBlade/SacredBlade/Sacred-Blade/Saved/Autosaves/Game/Blueprints/BP_GameMode_Auto5.uasset'
+[2019.08.18-06.22.51:926][488]LogFileHelpers: Auto-saving content packages took 0.041
+[2019.08.18-06.23.29:365][890]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.08.18-06.23.31:932][194]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/TestMap" FILE="../../../../SacredBlade/SacredBlade/Sacred-Blade/Content/Levels/TestMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.08.18-06.23.31:963][194]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2019.08.18-06.23.32:124][194]LogSavePackage: Moving '../../../../SacredBlade/SacredBlade/Sacred-Blade/Saved/TestMapB54B9FE94C61620370504C9D731D3B98.tmp' to '../../../../SacredBlade/SacredBlade/Sacred-Blade/Content/Levels/TestMap.umap'
+[2019.08.18-06.23.32:155][194]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/TestMap_BuiltData" FILE="../../../../SacredBlade/SacredBlade/Sacred-Blade/Content/Levels/TestMap_BuiltData.uasset" SILENT=true
+[2019.08.18-06.23.32:178][194]LogSavePackage: Moving '../../../../SacredBlade/SacredBlade/Sacred-Blade/Saved/TestMap_BuiltDataADC98BA2434A69586EB2DF8822990193.tmp' to '../../../../SacredBlade/SacredBlade/Sacred-Blade/Content/Levels/TestMap_BuiltData.uasset'
+[2019.08.18-06.23.34:192][430]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.18-06.23.34:210][430]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Levels/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.08.18-06.23.34:210][430]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.08.18-06.23.34:213][430]LogPlayLevel: [PlayLevel] Compiling BP_GameMode before play...
+[2019.08.18-06.23.34:378][430]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2019.08.18-06.23.34:378][430]LogPlayLevel: PlayLevel: Blueprint regeneration took 167 ms (1 blueprints)
+[2019.08.18-06.23.34:378][430]PIE: New page: PIE session: TestMap (Aug 17, 2019, 10:23:34 PM)
+[2019.08.18-06.23.34:378][430]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestMap
+[2019.08.18-06.23.34:381][430]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002963s)
+[2019.08.18-06.23.34:381][430]LogAIModule: Creating AISystem for world TestMap
+[2019.08.18-06.23.34:381][430]LogPlayLevel: PIE: World Init took: (0.000497s)
+[2019.08.18-06.23.34:381][430]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestMap.TestMap to /Game/Levels/UEDPIE_0_TestMap.TestMap (0.003549s)
+[2019.08.18-06.23.34:409][430]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2019.08.18-06.23.34:421][430]LogInit: XAudio2 using 'Speakers (Logitech G633 Gaming Headset)' : 6 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3f)
+[2019.08.18-06.23.34:436][430]LogInit: FAudioDevice initialized.
+[2019.08.18-06.23.34:466][430]LogLoad: Game class is 'BP_GameMode_C'
+[2019.08.18-06.23.34:467][430]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2019.08.18-02.23.34
+[2019.08.18-06.23.34:467][430]LogWorld: Bringing up level for play took: 0.000693
+[2019.08.18-06.23.34:481][430]PIE: Error: CreateWidget cannot be used on Player Controller with no attached player. BP_PlayerController_C_1 has no Player attached.
+[2019.08.18-06.23.34:481][430]PIE: Error: CreateWidget cannot be used on Player Controller with no attached player. BP_PlayerController_C_1 has no Player attached.
+[2019.08.18-06.23.34:481][430]PIE: Error: CreateWidget cannot be used on Player Controller with no attached player. BP_PlayerController_C_2 has no Player attached.
+[2019.08.18-06.23.34:481][430]PIE: Error: CreateWidget cannot be used on Player Controller with no attached player. BP_PlayerController_C_2 has no Player attached.
+[2019.08.18-06.23.34:482][430]PIE: Error: CreateWidget cannot be used on Player Controller with no attached player. BP_PlayerController_C_3 has no Player attached.
+[2019.08.18-06.23.34:482][430]PIE: Error: CreateWidget cannot be used on Player Controller with no attached player. BP_PlayerController_C_3 has no Player attached.
+[2019.08.18-06.23.34:482][430]LogPlayerManagement: Error: Failed to Create Player: Maximum number of players (4) already created.  Unable to create more.
+[2019.08.18-06.23.34:482][430]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_TestMap 0.229
+[2019.08.18-06.23.34:482][430]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Levels/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.08.18-06.23.36:257][641]LogScript: Warning: Accessed None trying to read property HealthBar
+	BP_GameMode_C /Game/Levels/UEDPIE_0_TestMap.TestMap:PersistentLevel.BP_GameMode_C_0
+	Function /Game/Blueprints/BP_GameMode.BP_GameMode_C:ExecuteUbergraph_BP_GameMode:0114
+[2019.08.18-06.23.36:257][641]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property HealthBar". Blueprint:  BP_GameMode Function:  Execute Ubergraph BP Game Mode Graph:  EventGraph Node:  Add to Viewport
+[2019.08.18-06.23.36:257][641]LogScript: Warning: Accessed None trying to read property UltBar
+	BP_GameMode_C /Game/Levels/UEDPIE_0_TestMap.TestMap:PersistentLevel.BP_GameMode_C_0
+	Function /Game/Blueprints/BP_GameMode.BP_GameMode_C:ExecuteUbergraph_BP_GameMode:0192
+[2019.08.18-06.23.36:257][641]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property UltBar". Blueprint:  BP_GameMode Function:  Execute Ubergraph BP Game Mode Graph:  EventGraph Node:  Add to Viewport
+[2019.08.18-06.23.37:674][811]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Levels/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.08.18-06.23.37:675][811]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.18-06.23.37:701][811]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.18-06.23.37:701][811]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Levels/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.08.18-06.23.37:733][811]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.18-06.23.37:737][811]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2019.08.18-06.23.37:743][811]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.18-06.23.37:795][813]LogPlayLevel: Display: Destroying online subsystem :Context_101
+[2019.08.18-06.23.39:154][973]LogSlate: Window 'Message Log' being destroyed
+[2019.08.18-06.23.39:158][973]LogSlate: Window 'Message Log' being destroyed
+[2019.08.18-06.23.55:665][498]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.08.18-06.25.31:762][655]BlueprintLog: New page: Compile BP_GameMode
+[2019.08.18-06.25.31:908][655]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2019.08.18-06.25.32:277][696]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_GameMode" FILE="../../../../SacredBlade/SacredBlade/Sacred-Blade/Content/Blueprints/BP_GameMode.uasset" SILENT=true
+[2019.08.18-06.25.32:312][696]LogSavePackage: Moving '../../../../SacredBlade/SacredBlade/Sacred-Blade/Saved/BP_GameMode090381544832635628E588A9B8A4614C.tmp' to '../../../../SacredBlade/SacredBlade/Sacred-Blade/Content/Blueprints/BP_GameMode.uasset'
+[2019.08.18-06.26.30:011][977]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.18-06.26.30:029][977]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Levels/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.08.18-06.26.30:029][977]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.18-06.26.30:029][977]PIE: New page: PIE session: TestMap (Aug 17, 2019, 10:26:30 PM)
+[2019.08.18-06.26.30:029][977]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestMap
+[2019.08.18-06.26.30:032][977]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003076s)
+[2019.08.18-06.26.30:033][977]LogAIModule: Creating AISystem for world TestMap
+[2019.08.18-06.26.30:033][977]LogPlayLevel: PIE: World Init took: (0.000478s)
+[2019.08.18-06.26.30:033][977]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestMap.TestMap to /Game/Levels/UEDPIE_0_TestMap.TestMap (0.003647s)
+[2019.08.18-06.26.30:061][977]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2019.08.18-06.26.30:072][977]LogInit: XAudio2 using 'Speakers (Logitech G633 Gaming Headset)' : 6 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3f)
+[2019.08.18-06.26.30:085][977]LogInit: FAudioDevice initialized.
+[2019.08.18-06.26.30:112][977]LogLoad: Game class is 'BP_GameMode_C'
+[2019.08.18-06.26.30:113][977]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2019.08.18-02.26.30
+[2019.08.18-06.26.30:113][977]LogWorld: Bringing up level for play took: 0.000706
+[2019.08.18-06.26.30:127][977]PIE: Error: CreateWidget cannot be used on Player Controller with no attached player. BP_PlayerController_C_1 has no Player attached.
+[2019.08.18-06.26.30:127][977]PIE: Error: CreateWidget cannot be used on Player Controller with no attached player. BP_PlayerController_C_1 has no Player attached.
+[2019.08.18-06.26.30:129][977]PIE: Error: CreateWidget cannot be used on Player Controller with no attached player. BP_PlayerController_C_2 has no Player attached.
+[2019.08.18-06.26.30:129][977]PIE: Error: CreateWidget cannot be used on Player Controller with no attached player. BP_PlayerController_C_2 has no Player attached.
+[2019.08.18-06.26.30:130][977]PIE: Error: CreateWidget cannot be used on Player Controller with no attached player. BP_PlayerController_C_3 has no Player attached.
+[2019.08.18-06.26.30:130][977]PIE: Error: CreateWidget cannot be used on Player Controller with no attached player. BP_PlayerController_C_3 has no Player attached.
+[2019.08.18-06.26.30:131][977]LogPlayerManagement: Error: Failed to Create Player: Maximum number of players (4) already created.  Unable to create more.
+[2019.08.18-06.26.30:132][977]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_TestMap -0.122
+[2019.08.18-06.26.30:132][977]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Levels/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.08.18-06.26.40:134][170]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Levels/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.08.18-06.26.40:134][170]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.18-06.26.40:163][170]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.18-06.26.40:163][170]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Levels/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.08.18-06.26.40:195][170]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.18-06.26.40:199][170]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2019.08.18-06.26.40:206][170]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.18-06.26.40:233][171]LogPlayLevel: Display: Destroying online subsystem :Context_102
+[2019.08.18-06.26.42:533][445]LogSlate: Window 'Message Log' being destroyed
+[2019.08.18-06.26.42:537][445]LogSlate: Window 'Message Log' being destroyed
+[2019.08.18-06.26.51:123][474]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.18-06.26.51:141][474]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Levels/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.08.18-06.26.51:141][474]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.18-06.26.51:141][474]PIE: New page: PIE session: TestMap (Aug 17, 2019, 10:26:51 PM)
+[2019.08.18-06.26.51:141][474]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestMap
+[2019.08.18-06.26.51:145][474]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003018s)
+[2019.08.18-06.26.51:145][474]LogAIModule: Creating AISystem for world TestMap
+[2019.08.18-06.26.51:145][474]LogPlayLevel: PIE: World Init took: (0.000534s)
+[2019.08.18-06.26.51:145][474]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestMap.TestMap to /Game/Levels/UEDPIE_0_TestMap.TestMap (0.003640s)
+[2019.08.18-06.26.51:170][474]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2019.08.18-06.26.51:181][474]LogInit: XAudio2 using 'Speakers (Logitech G633 Gaming Headset)' : 6 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3f)
+[2019.08.18-06.26.51:194][474]LogInit: FAudioDevice initialized.
+[2019.08.18-06.26.51:221][474]LogLoad: Game class is 'BP_GameMode_C'
+[2019.08.18-06.26.51:222][474]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2019.08.18-02.26.51
+[2019.08.18-06.26.51:222][474]LogWorld: Bringing up level for play took: 0.000815
+[2019.08.18-06.26.51:237][474]PIE: Error: CreateWidget cannot be used on Player Controller with no attached player. BP_PlayerController_C_1 has no Player attached.
+[2019.08.18-06.26.51:237][474]PIE: Error: CreateWidget cannot be used on Player Controller with no attached player. BP_PlayerController_C_1 has no Player attached.
+[2019.08.18-06.26.51:238][474]PIE: Error: CreateWidget cannot be used on Player Controller with no attached player. BP_PlayerController_C_2 has no Player attached.
+[2019.08.18-06.26.51:238][474]PIE: Error: CreateWidget cannot be used on Player Controller with no attached player. BP_PlayerController_C_2 has no Player attached.
+[2019.08.18-06.26.51:240][474]PIE: Error: CreateWidget cannot be used on Player Controller with no attached player. BP_PlayerController_C_3 has no Player attached.
+[2019.08.18-06.26.51:240][474]PIE: Error: CreateWidget cannot be used on Player Controller with no attached player. BP_PlayerController_C_3 has no Player attached.
+[2019.08.18-06.26.51:241][474]LogPlayerManagement: Error: Failed to Create Player: Maximum number of players (4) already created.  Unable to create more.
+[2019.08.18-06.26.51:241][474]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_TestMap 0.988
+[2019.08.18-06.26.51:241][474]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Levels/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.08.18-06.26.52:219][589]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Levels/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.08.18-06.26.52:220][589]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.18-06.26.52:246][589]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.18-06.26.52:246][589]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Levels/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.08.18-06.26.52:277][589]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.18-06.26.52:281][589]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2019.08.18-06.26.52:288][589]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.18-06.26.52:335][591]LogPlayLevel: Display: Destroying online subsystem :Context_103
+[2019.08.18-06.26.53:605][742]LogSlate: Window 'Message Log' being destroyed
+[2019.08.18-06.26.53:609][742]LogSlate: Window 'Message Log' being destroyed
+[2019.08.18-06.27.10:376][747]BlueprintLog: New page: Compile BP_GameMode
+[2019.08.18-06.27.10:524][747]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2019.08.18-06.27.11:371][838]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.18-06.27.11:389][838]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Levels/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.08.18-06.27.11:389][838]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.18-06.27.11:390][838]PIE: New page: PIE session: TestMap (Aug 17, 2019, 10:27:11 PM)
+[2019.08.18-06.27.11:390][838]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestMap
+[2019.08.18-06.27.11:393][838]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002869s)
+[2019.08.18-06.27.11:393][838]LogAIModule: Creating AISystem for world TestMap
+[2019.08.18-06.27.11:393][838]LogPlayLevel: PIE: World Init took: (0.000432s)
+[2019.08.18-06.27.11:393][838]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestMap.TestMap to /Game/Levels/UEDPIE_0_TestMap.TestMap (0.003386s)
+[2019.08.18-06.27.11:420][838]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2019.08.18-06.27.11:431][838]LogInit: XAudio2 using 'Speakers (Logitech G633 Gaming Headset)' : 6 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3f)
+[2019.08.18-06.27.11:444][838]LogInit: FAudioDevice initialized.
+[2019.08.18-06.27.11:471][838]LogLoad: Game class is 'BP_GameMode_C'
+[2019.08.18-06.27.11:472][838]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2019.08.18-02.27.11
+[2019.08.18-06.27.11:472][838]LogWorld: Bringing up level for play took: 0.000652
+[2019.08.18-06.27.11:486][838]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_TestMap -0.767
+[2019.08.18-06.27.11:486][838]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Levels/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.08.18-06.27.13:312][ 55]PIE: Warning: The widget 'W_HealthBar_C' was already added to the screen.
+[2019.08.18-06.27.13:312][ 55]PIE: Warning: The widget 'W_UltBar_C' was already added to the screen.
+[2019.08.18-06.27.13:770][110]PIE: Warning: The widget 'W_HealthBar_C' was already added to the screen.
+[2019.08.18-06.27.13:770][110]PIE: Warning: The widget 'W_UltBar_C' was already added to the screen.
+[2019.08.18-06.27.14:070][146]PIE: Warning: The widget 'W_HealthBar_C' was already added to the screen.
+[2019.08.18-06.27.14:070][146]PIE: Warning: The widget 'W_UltBar_C' was already added to the screen.
+[2019.08.18-06.27.14:311][175]PIE: Warning: The widget 'W_HealthBar_C' was already added to the screen.
+[2019.08.18-06.27.14:311][175]PIE: Warning: The widget 'W_UltBar_C' was already added to the screen.
+[2019.08.18-06.27.14:520][200]PIE: Warning: The widget 'W_HealthBar_C' was already added to the screen.
+[2019.08.18-06.27.14:520][200]PIE: Warning: The widget 'W_UltBar_C' was already added to the screen.
+[2019.08.18-06.27.14:719][224]PIE: Warning: The widget 'W_HealthBar_C' was already added to the screen.
+[2019.08.18-06.27.14:719][224]PIE: Warning: The widget 'W_UltBar_C' was already added to the screen.
+[2019.08.18-06.27.14:920][248]PIE: Warning: The widget 'W_HealthBar_C' was already added to the screen.
+[2019.08.18-06.27.14:920][248]PIE: Warning: The widget 'W_UltBar_C' was already added to the screen.
+[2019.08.18-06.27.15:104][270]PIE: Warning: The widget 'W_HealthBar_C' was already added to the screen.
+[2019.08.18-06.27.15:104][270]PIE: Warning: The widget 'W_UltBar_C' was already added to the screen.
+[2019.08.18-06.27.15:270][290]PIE: Warning: The widget 'W_HealthBar_C' was already added to the screen.
+[2019.08.18-06.27.15:270][290]PIE: Warning: The widget 'W_UltBar_C' was already added to the screen.
+[2019.08.18-06.27.17:095][509]PIE: Warning: The widget 'W_HealthBar_C' was already added to the screen.
+[2019.08.18-06.27.17:095][509]PIE: Warning: The widget 'W_UltBar_C' was already added to the screen.
+[2019.08.18-06.27.17:560][565]LogScript: Warning: Attempted to access BP_Player_Wizard_C_4 via property K2Node_DynamicCast_AsBP_Player_Parent, but BP_Player_Wizard_C_4 is pending kill
+	BP_Bolt_C /Game/Levels/UEDPIE_0_TestMap.TestMap:PersistentLevel.BP_Bolt_C_2
+	Function /Game/Blueprints/Wizard/BP_Bolt.BP_Bolt_C:ExecuteUbergraph_BP_Bolt:0067
+[2019.08.18-06.27.17:560][565]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Player_Wizard_C_4 via property K2Node_DynamicCast_AsBP_Player_Parent, but BP_Player_Wizard_C_4 is pending kill". Blueprint:  BP_Bolt Function:  Execute Ubergraph BP Bolt Graph:  EventGraph Node:  Add Ult Charge
+[2019.08.18-06.27.19:271][770]PIE: Warning: The widget 'W_HealthBar_C' was already added to the screen.
+[2019.08.18-06.27.19:271][770]PIE: Warning: The widget 'W_UltBar_C' was already added to the screen.
+[2019.08.18-06.27.19:504][798]LogScript: Warning: Attempted to access BP_Player_Assassin_C_5 via property K2Node_DynamicCast_AsBP_Player_Parent, but BP_Player_Assassin_C_5 is pending kill
+	BP_Kunai_C /Game/Levels/UEDPIE_0_TestMap.TestMap:PersistentLevel.BP_Kunai_C_3
+	Function /Game/Blueprints/Assassin/BP_Kunai.BP_Kunai_C:ExecuteUbergraph_BP_Kunai:0067
+[2019.08.18-06.27.19:504][798]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Player_Assassin_C_5 via property K2Node_DynamicCast_AsBP_Player_Parent, but BP_Player_Assassin_C_5 is pending kill". Blueprint:  BP_Kunai Function:  Execute Ubergraph BP Kunai Graph:  EventGraph Node:  Add Ult Charge
+[2019.08.18-06.27.19:928][849]LogScript: Warning: Attempted to access BP_Player_Assassin_C_5 via property K2Node_DynamicCast_AsBP_Player_Parent, but BP_Player_Assassin_C_5 is pending kill
+	BP_Kunai_C /Game/Levels/UEDPIE_0_TestMap.TestMap:PersistentLevel.BP_Kunai_C_4
+	Function /Game/Blueprints/Assassin/BP_Kunai.BP_Kunai_C:ExecuteUbergraph_BP_Kunai:0067
+[2019.08.18-06.27.19:929][849]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Player_Assassin_C_5 via property K2Node_DynamicCast_AsBP_Player_Parent, but BP_Player_Assassin_C_5 is pending kill". Blueprint:  BP_Kunai Function:  Execute Ubergraph BP Kunai Graph:  EventGraph Node:  Add Ult Charge
+[2019.08.18-06.27.22:522][160]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Levels/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.08.18-06.27.22:522][160]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.18-06.27.22:553][160]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.18-06.27.22:553][160]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Levels/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.08.18-06.27.22:586][160]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.18-06.27.22:591][160]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2019.08.18-06.27.22:597][160]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.18-06.27.22:626][161]LogPlayLevel: Display: Destroying online subsystem :Context_104
+[2019.08.18-06.27.23:997][322]LogSlate: Window 'Message Log' being destroyed
+[2019.08.18-06.27.24:001][322]LogSlate: Window 'Message Log' being destroyed
+[2019.08.18-06.28.03:740][ 84]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start2)
+[2019.08.18-06.28.10:184][855]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.18-06.28.32:562][185]BlueprintLog: New page: Compile BP_Player_Parent
+[2019.08.18-06.28.32:760][185]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2019.08.18-06.28.35:415][491]BlueprintLog: New page: Compile BP_GameMode
+[2019.08.18-06.28.35:562][491]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2019.08.18-06.28.36:365][583]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.18-06.28.36:383][583]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Levels/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.08.18-06.28.36:383][583]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.18-06.28.36:383][583]PIE: New page: PIE session: TestMap (Aug 17, 2019, 10:28:36 PM)
+[2019.08.18-06.28.36:383][583]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestMap
+[2019.08.18-06.28.36:386][583]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003085s)
+[2019.08.18-06.28.36:387][583]LogAIModule: Creating AISystem for world TestMap
+[2019.08.18-06.28.36:387][583]LogPlayLevel: PIE: World Init took: (0.000455s)
+[2019.08.18-06.28.36:387][583]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestMap.TestMap to /Game/Levels/UEDPIE_0_TestMap.TestMap (0.003633s)
+[2019.08.18-06.28.36:415][583]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2019.08.18-06.28.36:425][583]LogInit: XAudio2 using 'Speakers (Logitech G633 Gaming Headset)' : 6 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3f)
+[2019.08.18-06.28.36:439][583]LogInit: FAudioDevice initialized.
+[2019.08.18-06.28.36:468][583]LogLoad: Game class is 'BP_GameMode_C'
+[2019.08.18-06.28.36:469][583]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2019.08.18-02.28.36
+[2019.08.18-06.28.36:469][583]LogWorld: Bringing up level for play took: 0.000660
+[2019.08.18-06.28.36:483][583]PIE: Error: CreateWidget cannot be used on Player Controller with no attached player. BP_PlayerController_C_1 has no Player attached.
+[2019.08.18-06.28.36:483][583]PIE: Error: CreateWidget cannot be used on Player Controller with no attached player. BP_PlayerController_C_1 has no Player attached.
+[2019.08.18-06.28.36:485][583]PIE: Error: CreateWidget cannot be used on Player Controller with no attached player. BP_PlayerController_C_2 has no Player attached.
+[2019.08.18-06.28.36:485][583]PIE: Error: CreateWidget cannot be used on Player Controller with no attached player. BP_PlayerController_C_2 has no Player attached.
+[2019.08.18-06.28.36:486][583]PIE: Error: CreateWidget cannot be used on Player Controller with no attached player. BP_PlayerController_C_3 has no Player attached.
+[2019.08.18-06.28.36:486][583]PIE: Error: CreateWidget cannot be used on Player Controller with no attached player. BP_PlayerController_C_3 has no Player attached.
+[2019.08.18-06.28.36:487][583]LogPlayerManagement: Error: Failed to Create Player: Maximum number of players (4) already created.  Unable to create more.
+[2019.08.18-06.28.36:487][583]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_TestMap 0.234
+[2019.08.18-06.28.36:487][583]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Levels/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.08.18-06.28.43:171][382]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Levels/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.08.18-06.28.43:172][382]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.18-06.28.43:200][382]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.18-06.28.43:200][382]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Levels/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.08.18-06.28.43:233][382]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.18-06.28.43:238][382]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2019.08.18-06.28.43:245][382]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.18-06.28.43:272][383]LogPlayLevel: Display: Destroying online subsystem :Context_105
+[2019.08.18-06.28.46:276][741]LogSlate: Window 'Message Log' being destroyed
+[2019.08.18-06.28.46:280][741]LogSlate: Window 'Message Log' being destroyed
+[2019.08.18-06.29.05:745][918]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.08.18-06.29.08:850][287]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.18-06.29.08:868][287]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Levels/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.08.18-06.29.08:868][287]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.08.18-06.29.08:871][287]LogPlayLevel: [PlayLevel] Compiling BP_GameMode before play...
+[2019.08.18-06.29.09:026][287]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2019.08.18-06.29.09:026][287]LogPlayLevel: PlayLevel: Blueprint regeneration took 158 ms (1 blueprints)
+[2019.08.18-06.29.09:026][287]PIE: New page: PIE session: TestMap (Aug 17, 2019, 10:29:09 PM)
+[2019.08.18-06.29.09:026][287]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestMap
+[2019.08.18-06.29.09:029][287]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002868s)
+[2019.08.18-06.29.09:029][287]LogAIModule: Creating AISystem for world TestMap
+[2019.08.18-06.29.09:029][287]LogPlayLevel: PIE: World Init took: (0.000438s)
+[2019.08.18-06.29.09:029][287]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestMap.TestMap to /Game/Levels/UEDPIE_0_TestMap.TestMap (0.003390s)
+[2019.08.18-06.29.09:055][287]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2019.08.18-06.29.09:066][287]LogInit: XAudio2 using 'Speakers (Logitech G633 Gaming Headset)' : 6 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3f)
+[2019.08.18-06.29.09:079][287]LogInit: FAudioDevice initialized.
+[2019.08.18-06.29.09:104][287]LogLoad: Game class is 'BP_GameMode_C'
+[2019.08.18-06.29.09:105][287]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2019.08.18-02.29.09
+[2019.08.18-06.29.09:105][287]LogWorld: Bringing up level for play took: 0.000656
+[2019.08.18-06.29.09:119][287]PIE: Error: CreateWidget cannot be used on Player Controller with no attached player. BP_PlayerController_C_1 has no Player attached.
+[2019.08.18-06.29.09:119][287]PIE: Error: CreateWidget cannot be used on Player Controller with no attached player. BP_PlayerController_C_1 has no Player attached.
+[2019.08.18-06.29.09:121][287]PIE: Error: CreateWidget cannot be used on Player Controller with no attached player. BP_PlayerController_C_2 has no Player attached.
+[2019.08.18-06.29.09:121][287]PIE: Error: CreateWidget cannot be used on Player Controller with no attached player. BP_PlayerController_C_2 has no Player attached.
+[2019.08.18-06.29.09:122][287]PIE: Error: CreateWidget cannot be used on Player Controller with no attached player. BP_PlayerController_C_3 has no Player attached.
+[2019.08.18-06.29.09:122][287]PIE: Error: CreateWidget cannot be used on Player Controller with no attached player. BP_PlayerController_C_3 has no Player attached.
+[2019.08.18-06.29.09:123][287]LogPlayerManagement: Error: Failed to Create Player: Maximum number of players (4) already created.  Unable to create more.
+[2019.08.18-06.29.09:123][287]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_TestMap 0.869
+[2019.08.18-06.29.09:123][287]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Levels/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.08.18-06.29.13:470][798]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Levels/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.08.18-06.29.13:470][798]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.18-06.29.13:502][798]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.18-06.29.13:502][798]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Levels/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.08.18-06.29.13:533][798]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.18-06.29.13:538][798]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2019.08.18-06.29.13:544][798]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.18-06.29.13:570][799]LogPlayLevel: Display: Destroying online subsystem :Context_106
+[2019.08.18-06.29.14:766][940]LogSlate: Window 'Message Log' being destroyed
+[2019.08.18-06.29.14:770][940]LogSlate: Window 'Message Log' being destroyed
+[2019.08.18-06.29.39:086][848]BlueprintLog: New page: Compile BP_Player_Parent
+[2019.08.18-06.29.39:285][848]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2019.08.18-06.29.45:063][529]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.18-06.29.45:081][529]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Levels/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.08.18-06.29.45:081][529]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.18-06.29.45:081][529]PIE: New page: PIE session: TestMap (Aug 17, 2019, 10:29:45 PM)
+[2019.08.18-06.29.45:081][529]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestMap
+[2019.08.18-06.29.45:084][529]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003038s)
+[2019.08.18-06.29.45:085][529]LogAIModule: Creating AISystem for world TestMap
+[2019.08.18-06.29.45:085][529]LogPlayLevel: PIE: World Init took: (0.000471s)
+[2019.08.18-06.29.45:085][529]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestMap.TestMap to /Game/Levels/UEDPIE_0_TestMap.TestMap (0.003599s)
+[2019.08.18-06.29.45:112][529]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2019.08.18-06.29.45:122][529]LogInit: XAudio2 using 'Speakers (Logitech G633 Gaming Headset)' : 6 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3f)
+[2019.08.18-06.29.45:136][529]LogInit: FAudioDevice initialized.
+[2019.08.18-06.29.45:163][529]LogLoad: Game class is 'BP_GameMode_C'
+[2019.08.18-06.29.45:164][529]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2019.08.18-02.29.45
+[2019.08.18-06.29.45:164][529]LogWorld: Bringing up level for play took: 0.000758
+[2019.08.18-06.29.45:178][529]PIE: Error: CreateWidget cannot be used on Player Controller with no attached player. BP_PlayerController_C_1 has no Player attached.
+[2019.08.18-06.29.45:178][529]PIE: Error: CreateWidget cannot be used on Player Controller with no attached player. BP_PlayerController_C_1 has no Player attached.
+[2019.08.18-06.29.45:180][529]PIE: Error: CreateWidget cannot be used on Player Controller with no attached player. BP_PlayerController_C_2 has no Player attached.
+[2019.08.18-06.29.45:180][529]PIE: Error: CreateWidget cannot be used on Player Controller with no attached player. BP_PlayerController_C_2 has no Player attached.
+[2019.08.18-06.29.45:181][529]PIE: Error: CreateWidget cannot be used on Player Controller with no attached player. BP_PlayerController_C_3 has no Player attached.
+[2019.08.18-06.29.45:181][529]PIE: Error: CreateWidget cannot be used on Player Controller with no attached player. BP_PlayerController_C_3 has no Player attached.
+[2019.08.18-06.29.45:182][529]LogPlayerManagement: Error: Failed to Create Player: Maximum number of players (4) already created.  Unable to create more.
+[2019.08.18-06.29.45:182][529]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_TestMap 0.929
+[2019.08.18-06.29.45:182][529]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Levels/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.08.18-06.29.46:573][693]PIE: Warning: The widget 'W_HealthBar_C' was already added to the screen.
+[2019.08.18-06.29.46:573][693]PIE: Warning: The widget 'W_UltBar_C' was already added to the screen.
+[2019.08.18-06.29.47:114][758]PIE: Warning: The widget 'W_HealthBar_C' was already added to the screen.
+[2019.08.18-06.29.47:114][758]PIE: Warning: The widget 'W_UltBar_C' was already added to the screen.
+[2019.08.18-06.29.47:322][783]PIE: Warning: The widget 'W_HealthBar_C' was already added to the screen.
+[2019.08.18-06.29.47:323][783]PIE: Warning: The widget 'W_UltBar_C' was already added to the screen.
+[2019.08.18-06.29.47:523][807]PIE: Warning: The widget 'W_HealthBar_C' was already added to the screen.
+[2019.08.18-06.29.47:523][807]PIE: Warning: The widget 'W_UltBar_C' was already added to the screen.
+[2019.08.18-06.29.47:714][830]PIE: Warning: The widget 'W_HealthBar_C' was already added to the screen.
+[2019.08.18-06.29.47:714][830]PIE: Warning: The widget 'W_UltBar_C' was already added to the screen.
+[2019.08.18-06.29.47:890][851]PIE: Warning: The widget 'W_HealthBar_C' was already added to the screen.
+[2019.08.18-06.29.47:890][851]PIE: Warning: The widget 'W_UltBar_C' was already added to the screen.
+[2019.08.18-06.29.48:073][873]PIE: Warning: The widget 'W_HealthBar_C' was already added to the screen.
+[2019.08.18-06.29.48:073][873]PIE: Warning: The widget 'W_UltBar_C' was already added to the screen.
+[2019.08.18-06.29.48:265][896]PIE: Warning: The widget 'W_HealthBar_C' was already added to the screen.
+[2019.08.18-06.29.48:265][896]PIE: Warning: The widget 'W_UltBar_C' was already added to the screen.
+[2019.08.18-06.29.48:456][919]PIE: Warning: The widget 'W_HealthBar_C' was already added to the screen.
+[2019.08.18-06.29.48:456][919]PIE: Warning: The widget 'W_UltBar_C' was already added to the screen.
+[2019.08.18-06.29.48:632][940]PIE: Warning: The widget 'W_HealthBar_C' was already added to the screen.
+[2019.08.18-06.29.48:632][940]PIE: Warning: The widget 'W_UltBar_C' was already added to the screen.
+[2019.08.18-06.29.48:815][962]PIE: Warning: The widget 'W_HealthBar_C' was already added to the screen.
+[2019.08.18-06.29.48:815][962]PIE: Warning: The widget 'W_UltBar_C' was already added to the screen.
+[2019.08.18-06.29.48:989][983]PIE: Warning: The widget 'W_HealthBar_C' was already added to the screen.
+[2019.08.18-06.29.48:989][983]PIE: Warning: The widget 'W_UltBar_C' was already added to the screen.
+[2019.08.18-06.29.49:182][  6]PIE: Warning: The widget 'W_HealthBar_C' was already added to the screen.
+[2019.08.18-06.29.49:182][  6]PIE: Warning: The widget 'W_UltBar_C' was already added to the screen.
+[2019.08.18-06.29.49:582][ 54]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Levels/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.08.18-06.29.49:582][ 54]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.18-06.29.49:615][ 54]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.18-06.29.49:615][ 54]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Levels/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.08.18-06.29.49:647][ 54]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.18-06.29.49:651][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2019.08.18-06.29.49:658][ 54]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.18-06.29.49:685][ 55]LogPlayLevel: Display: Destroying online subsystem :Context_107
+[2019.08.18-06.29.50:939][202]LogSlate: Window 'Message Log' being destroyed
+[2019.08.18-06.29.50:943][202]LogSlate: Window 'Message Log' being destroyed
+[2019.08.18-06.30.19:103][575]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.08.18-06.30.21:143][817]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.18-06.30.21:160][817]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Levels/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.08.18-06.30.21:160][817]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.18-06.30.21:160][817]PIE: New page: PIE session: TestMap (Aug 17, 2019, 10:30:21 PM)
+[2019.08.18-06.30.21:160][817]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestMap
+[2019.08.18-06.30.21:164][817]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003110s)
+[2019.08.18-06.30.21:164][817]LogAIModule: Creating AISystem for world TestMap
+[2019.08.18-06.30.21:164][817]LogPlayLevel: PIE: World Init took: (0.000463s)
+[2019.08.18-06.30.21:164][817]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestMap.TestMap to /Game/Levels/UEDPIE_0_TestMap.TestMap (0.003678s)
+[2019.08.18-06.30.21:191][817]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2019.08.18-06.30.21:203][817]LogInit: XAudio2 using 'Speakers (Logitech G633 Gaming Headset)' : 6 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3f)
+[2019.08.18-06.30.21:217][817]LogInit: FAudioDevice initialized.
+[2019.08.18-06.30.21:248][817]LogLoad: Game class is 'BP_GameMode_C'
+[2019.08.18-06.30.21:249][817]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2019.08.18-02.30.21
+[2019.08.18-06.30.21:249][817]LogWorld: Bringing up level for play took: 0.000663
+[2019.08.18-06.30.21:263][817]PIE: Error: CreateWidget cannot be used on Player Controller with no attached player. BP_PlayerController_C_1 has no Player attached.
+[2019.08.18-06.30.21:264][817]PIE: Error: CreateWidget cannot be used on Player Controller with no attached player. BP_PlayerController_C_1 has no Player attached.
+[2019.08.18-06.30.21:265][817]PIE: Error: CreateWidget cannot be used on Player Controller with no attached player. BP_PlayerController_C_2 has no Player attached.
+[2019.08.18-06.30.21:265][817]PIE: Error: CreateWidget cannot be used on Player Controller with no attached player. BP_PlayerController_C_2 has no Player attached.
+[2019.08.18-06.30.21:267][817]PIE: Error: CreateWidget cannot be used on Player Controller with no attached player. BP_PlayerController_C_3 has no Player attached.
+[2019.08.18-06.30.21:267][817]PIE: Error: CreateWidget cannot be used on Player Controller with no attached player. BP_PlayerController_C_3 has no Player attached.
+[2019.08.18-06.30.21:268][817]LogPlayerManagement: Error: Failed to Create Player: Maximum number of players (4) already created.  Unable to create more.
+[2019.08.18-06.30.21:268][817]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_TestMap 1.014
+[2019.08.18-06.30.21:268][817]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Levels/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.08.18-06.30.22:912][ 12]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Levels/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.08.18-06.30.22:912][ 12]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.18-06.30.22:938][ 12]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.18-06.30.22:938][ 12]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Levels/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.08.18-06.30.22:970][ 12]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.18-06.30.22:974][ 12]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2019.08.18-06.30.22:982][ 12]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.18-06.30.23:036][ 14]LogPlayLevel: Display: Destroying online subsystem :Context_108
+[2019.08.18-06.30.24:128][144]LogSlate: Window 'Message Log' being destroyed
+[2019.08.18-06.30.24:131][144]LogSlate: Window 'Message Log' being destroyed
+[2019.08.18-06.30.33:880][310]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.18-06.30.33:898][310]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Levels/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.08.18-06.30.33:898][310]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.08.18-06.30.33:901][310]LogPlayLevel: [PlayLevel] Compiling BP_GameMode before play...
+[2019.08.18-06.30.34:060][310]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2019.08.18-06.30.34:060][310]LogPlayLevel: PlayLevel: Blueprint regeneration took 161 ms (1 blueprints)
+[2019.08.18-06.30.34:060][310]PIE: New page: PIE session: TestMap (Aug 17, 2019, 10:30:34 PM)
+[2019.08.18-06.30.34:060][310]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestMap
+[2019.08.18-06.30.34:063][310]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003104s)
+[2019.08.18-06.30.34:064][310]LogAIModule: Creating AISystem for world TestMap
+[2019.08.18-06.30.34:064][310]LogPlayLevel: PIE: World Init took: (0.000594s)
+[2019.08.18-06.30.34:064][310]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestMap.TestMap to /Game/Levels/UEDPIE_0_TestMap.TestMap (0.003805s)
+[2019.08.18-06.30.34:091][310]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2019.08.18-06.30.34:102][310]LogInit: XAudio2 using 'Speakers (Logitech G633 Gaming Headset)' : 6 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3f)
+[2019.08.18-06.30.34:117][310]LogInit: FAudioDevice initialized.
+[2019.08.18-06.30.34:146][310]LogLoad: Game class is 'BP_GameMode_C'
+[2019.08.18-06.30.34:147][310]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2019.08.18-02.30.34
+[2019.08.18-06.30.34:147][310]LogWorld: Bringing up level for play took: 0.000640
+[2019.08.18-06.30.34:162][310]PIE: Error: CreateWidget cannot be used on Player Controller with no attached player. BP_PlayerController_C_1 has no Player attached.
+[2019.08.18-06.30.34:162][310]PIE: Error: CreateWidget cannot be used on Player Controller with no attached player. BP_PlayerController_C_1 has no Player attached.
+[2019.08.18-06.30.34:162][310]PIE: Error: CreateWidget cannot be used on Player Controller with no attached player. BP_PlayerController_C_2 has no Player attached.
+[2019.08.18-06.30.34:162][310]PIE: Error: CreateWidget cannot be used on Player Controller with no attached player. BP_PlayerController_C_2 has no Player attached.
+[2019.08.18-06.30.34:163][310]PIE: Error: CreateWidget cannot be used on Player Controller with no attached player. BP_PlayerController_C_3 has no Player attached.
+[2019.08.18-06.30.34:163][310]PIE: Error: CreateWidget cannot be used on Player Controller with no attached player. BP_PlayerController_C_3 has no Player attached.
+[2019.08.18-06.30.34:163][310]LogPlayerManagement: Error: Failed to Create Player: Maximum number of players (4) already created.  Unable to create more.
+[2019.08.18-06.30.34:163][310]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_TestMap -0.09
+[2019.08.18-06.30.34:163][310]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Levels/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.08.18-06.30.40:410][ 52]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Levels/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.08.18-06.30.40:411][ 52]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.18-06.30.40:442][ 52]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.18-06.30.40:442][ 52]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Levels/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.08.18-06.30.40:477][ 52]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.18-06.30.40:481][ 52]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2019.08.18-06.30.40:488][ 52]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.18-06.30.40:515][ 53]LogPlayLevel: Display: Destroying online subsystem :Context_109
+[2019.08.18-06.30.41:631][184]LogSlate: Window 'Message Log' being destroyed
+[2019.08.18-06.30.41:633][184]LogSlate: Window 'Message Log' being destroyed
+[2019.08.18-06.30.42:699][312]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.18-06.30.42:716][312]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Levels/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.08.18-06.30.42:716][312]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.18-06.30.42:716][312]PIE: New page: PIE session: TestMap (Aug 17, 2019, 10:30:42 PM)
+[2019.08.18-06.30.42:716][312]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestMap
+[2019.08.18-06.30.42:718][312]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002943s)
+[2019.08.18-06.30.42:719][312]LogAIModule: Creating AISystem for world TestMap
+[2019.08.18-06.30.42:719][312]LogPlayLevel: PIE: World Init took: (0.000459s)
+[2019.08.18-06.30.42:719][312]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestMap.TestMap to /Game/Levels/UEDPIE_0_TestMap.TestMap (0.003487s)
+[2019.08.18-06.30.42:746][312]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2019.08.18-06.30.42:756][312]LogInit: XAudio2 using 'Speakers (Logitech G633 Gaming Headset)' : 6 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3f)
+[2019.08.18-06.30.42:769][312]LogInit: FAudioDevice initialized.
+[2019.08.18-06.30.42:800][312]LogLoad: Game class is 'BP_GameMode_C'
+[2019.08.18-06.30.42:801][312]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2019.08.18-02.30.42
+[2019.08.18-06.30.42:801][312]LogWorld: Bringing up level for play took: 0.000730
+[2019.08.18-06.30.42:815][312]PIE: Error: CreateWidget cannot be used on Player Controller with no attached player. BP_PlayerController_C_1 has no Player attached.
+[2019.08.18-06.30.42:815][312]PIE: Error: CreateWidget cannot be used on Player Controller with no attached player. BP_PlayerController_C_1 has no Player attached.
+[2019.08.18-06.30.42:815][312]PIE: Error: CreateWidget cannot be used on Player Controller with no attached player. BP_PlayerController_C_2 has no Player attached.
+[2019.08.18-06.30.42:815][312]PIE: Error: CreateWidget cannot be used on Player Controller with no attached player. BP_PlayerController_C_2 has no Player attached.
+[2019.08.18-06.30.42:816][312]PIE: Error: CreateWidget cannot be used on Player Controller with no attached player. BP_PlayerController_C_3 has no Player attached.
+[2019.08.18-06.30.42:816][312]PIE: Error: CreateWidget cannot be used on Player Controller with no attached player. BP_PlayerController_C_3 has no Player attached.
+[2019.08.18-06.30.42:816][312]LogPlayerManagement: Error: Failed to Create Player: Maximum number of players (4) already created.  Unable to create more.
+[2019.08.18-06.30.42:816][312]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_TestMap 0.563
+[2019.08.18-06.30.42:816][312]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Levels/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.08.18-06.30.46:691][775]LogScript: Warning: Accessed None trying to read property HealthBar
+	BP_GameMode_C /Game/Levels/UEDPIE_0_TestMap.TestMap:PersistentLevel.BP_GameMode_C_0
+	Function /Game/Blueprints/BP_GameMode.BP_GameMode_C:ExecuteUbergraph_BP_GameMode:0114
+[2019.08.18-06.30.46:691][775]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property HealthBar". Blueprint:  BP_GameMode Function:  Execute Ubergraph BP Game Mode Graph:  EventGraph Node:  Add to Viewport
+[2019.08.18-06.30.46:691][775]LogScript: Warning: Accessed None trying to read property UltBar
+	BP_GameMode_C /Game/Levels/UEDPIE_0_TestMap.TestMap:PersistentLevel.BP_GameMode_C_0
+	Function /Game/Blueprints/BP_GameMode.BP_GameMode_C:ExecuteUbergraph_BP_GameMode:0192
+[2019.08.18-06.30.46:692][775]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property UltBar". Blueprint:  BP_GameMode Function:  Execute Ubergraph BP Game Mode Graph:  EventGraph Node:  Add to Viewport
+[2019.08.18-06.30.51:814][389]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Levels/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.08.18-06.30.51:814][389]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.18-06.30.51:844][389]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.18-06.30.51:844][389]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Levels/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.08.18-06.30.51:875][389]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.18-06.30.51:880][389]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2019.08.18-06.30.51:886][389]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.18-06.30.51:913][390]LogPlayLevel: Display: Destroying online subsystem :Context_110
+[2019.08.18-06.30.58:741][207]LogSlate: Window 'Message Log' being destroyed
+[2019.08.18-06.30.58:744][207]LogSlate: Window 'Message Log' being destroyed
+[2019.08.18-06.31.14:558][941]BlueprintLog: New page: Compile BP_Player_Parent
+[2019.08.18-06.31.14:759][941]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2019.08.18-06.31.17:777][289]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Player_Parent" FILE="../../../../SacredBlade/SacredBlade/Sacred-Blade/Content/Blueprints/BP_Player_Parent.uasset" SILENT=true
+[2019.08.18-06.31.17:843][289]LogSavePackage: Moving '../../../../SacredBlade/SacredBlade/Sacred-Blade/Saved/BP_Player_Parent613E08D14D0244DF942BECB200B1DD7F.tmp' to '../../../../SacredBlade/SacredBlade/Sacred-Blade/Content/Blueprints/BP_Player_Parent.uasset'
+[2019.08.18-06.31.18:771][396]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_GameMode" FILE="../../../../SacredBlade/SacredBlade/Sacred-Blade/Content/Blueprints/BP_GameMode.uasset" SILENT=true
+[2019.08.18-06.31.18:811][396]LogSavePackage: Moving '../../../../SacredBlade/SacredBlade/Sacred-Blade/Saved/BP_GameModeA8CC591C47E773ED53B60A8D5EB13E7F.tmp' to '../../../../SacredBlade/SacredBlade/Sacred-Blade/Content/Blueprints/BP_GameMode.uasset'
+[2019.08.18-06.31.25:663][215]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.08.18-06.31.27:659][451]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.18-06.31.27:677][451]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Levels/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.08.18-06.31.27:677][451]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.08.18-06.31.27:679][451]LogPlayLevel: [PlayLevel] Compiling BP_GameMode before play...
+[2019.08.18-06.31.27:838][451]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2019.08.18-06.31.27:838][451]LogPlayLevel: PlayLevel: Blueprint regeneration took 162 ms (1 blueprints)
+[2019.08.18-06.31.27:838][451]PIE: New page: PIE session: TestMap (Aug 17, 2019, 10:31:27 PM)
+[2019.08.18-06.31.27:838][451]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestMap
+[2019.08.18-06.31.27:841][451]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002882s)
+[2019.08.18-06.31.27:842][451]LogAIModule: Creating AISystem for world TestMap
+[2019.08.18-06.31.27:842][451]LogPlayLevel: PIE: World Init took: (0.000528s)
+[2019.08.18-06.31.27:842][451]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestMap.TestMap to /Game/Levels/UEDPIE_0_TestMap.TestMap (0.003529s)
+[2019.08.18-06.31.27:871][451]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2019.08.18-06.31.27:881][451]LogInit: XAudio2 using 'Speakers (Logitech G633 Gaming Headset)' : 6 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3f)
+[2019.08.18-06.31.27:895][451]LogInit: FAudioDevice initialized.
+[2019.08.18-06.31.27:924][451]LogLoad: Game class is 'BP_GameMode_C'
+[2019.08.18-06.31.27:925][451]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2019.08.18-02.31.27
+[2019.08.18-06.31.27:925][451]LogWorld: Bringing up level for play took: 0.000662
+[2019.08.18-06.31.27:939][451]PIE: Error: CreateWidget cannot be used on Player Controller with no attached player. BP_PlayerController_C_1 has no Player attached.
+[2019.08.18-06.31.27:939][451]PIE: Error: CreateWidget cannot be used on Player Controller with no attached player. BP_PlayerController_C_1 has no Player attached.
+[2019.08.18-06.31.27:941][451]PIE: Error: CreateWidget cannot be used on Player Controller with no attached player. BP_PlayerController_C_2 has no Player attached.
+[2019.08.18-06.31.27:941][451]PIE: Error: CreateWidget cannot be used on Player Controller with no attached player. BP_PlayerController_C_2 has no Player attached.
+[2019.08.18-06.31.27:942][451]PIE: Error: CreateWidget cannot be used on Player Controller with no attached player. BP_PlayerController_C_3 has no Player attached.
+[2019.08.18-06.31.27:942][451]PIE: Error: CreateWidget cannot be used on Player Controller with no attached player. BP_PlayerController_C_3 has no Player attached.
+[2019.08.18-06.31.27:943][451]LogPlayerManagement: Error: Failed to Create Player: Maximum number of players (4) already created.  Unable to create more.
+[2019.08.18-06.31.27:943][451]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_TestMap -0.31
+[2019.08.18-06.31.27:944][451]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Levels/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.08.18-06.32.10:048][481]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Levels/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.08.18-06.32.10:049][481]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.18-06.32.10:081][481]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.18-06.32.10:081][481]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Levels/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.08.18-06.32.10:115][481]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.18-06.32.10:120][481]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2019.08.18-06.32.10:127][481]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.18-06.32.10:155][482]LogPlayLevel: Display: Destroying online subsystem :Context_111
+[2019.08.18-06.32.14:075][941]LogSlate: Window 'Message Log' being destroyed
+[2019.08.18-06.32.14:078][941]LogSlate: Window 'Message Log' being destroyed
+[2019.08.18-06.32.32:676][932]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_GameMode" FILE="../../../../SacredBlade/SacredBlade/Sacred-Blade/Content/Blueprints/BP_GameMode.uasset" SILENT=true
+[2019.08.18-06.32.32:710][932]LogSavePackage: Moving '../../../../SacredBlade/SacredBlade/Sacred-Blade/Saved/BP_GameMode9026BB5D49ED2F60E2AC478978CE07C9.tmp' to '../../../../SacredBlade/SacredBlade/Sacred-Blade/Content/Blueprints/BP_GameMode.uasset'
+[2019.08.18-06.32.46:842][623]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.08.18-06.32.49:178][899]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/TestMap" FILE="../../../../SacredBlade/SacredBlade/Sacred-Blade/Content/Levels/TestMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.08.18-06.32.49:204][899]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2019.08.18-06.32.49:365][899]LogSavePackage: Moving '../../../../SacredBlade/SacredBlade/Sacred-Blade/Saved/TestMapBE1BC7F94C0406BBF759F2AF25091878.tmp' to '../../../../SacredBlade/SacredBlade/Sacred-Blade/Content/Levels/TestMap.umap'
+[2019.08.18-06.32.49:392][899]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/TestMap_BuiltData" FILE="../../../../SacredBlade/SacredBlade/Sacred-Blade/Content/Levels/TestMap_BuiltData.uasset" SILENT=true
+[2019.08.18-06.32.49:414][899]LogSavePackage: Moving '../../../../SacredBlade/SacredBlade/Sacred-Blade/Saved/TestMap_BuiltData0E5794D149BADB2F23466FAA00D799D6.tmp' to '../../../../SacredBlade/SacredBlade/Sacred-Blade/Content/Levels/TestMap_BuiltData.uasset'
+[2019.08.18-06.32.52:003][195]BlueprintLog: New page: Compile BP_GameMode
+[2019.08.18-06.32.52:149][195]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2019.08.18-06.32.52:467][228]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_GameMode" FILE="../../../../SacredBlade/SacredBlade/Sacred-Blade/Content/Blueprints/BP_GameMode.uasset" SILENT=true
+[2019.08.18-06.32.52:502][228]LogSavePackage: Moving '../../../../SacredBlade/SacredBlade/Sacred-Blade/Saved/BP_GameMode1AB550954CFA9804A74E4B954E5E9E26.tmp' to '../../../../SacredBlade/SacredBlade/Sacred-Blade/Content/Blueprints/BP_GameMode.uasset'
+[2019.08.18-06.40.05:546][627]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_GameMode" FILE="../../../../SacredBlade/SacredBlade/Sacred-Blade/Content/Blueprints/BP_GameMode.uasset" SILENT=true
+[2019.08.18-06.40.05:586][627]LogSavePackage: Moving '../../../../SacredBlade/SacredBlade/Sacred-Blade/Saved/BP_GameModeEFC6C8E84E73FE147B2DD9B349F05EB4.tmp' to '../../../../SacredBlade/SacredBlade/Sacred-Blade/Content/Blueprints/BP_GameMode.uasset'
