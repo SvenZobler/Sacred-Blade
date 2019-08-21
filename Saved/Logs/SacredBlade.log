@@ -779,3 +779,777 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.08.21-18.13.56:806][247]LogSavePackage: Moving '../../../../../../Users/KEOrlando/Documents/GitHub/Sacred-Blade/Saved/TestMap4647F15142CFF134CED1B6B3606B322E.tmp' to '../../../../../../Users/KEOrlando/Documents/GitHub/Sacred-Blade/Content/Levels/TestMap.umap'
 [2019.08.21-18.13.56:837][247]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/TestMap_BuiltData" FILE="../../../../../../Users/KEOrlando/Documents/GitHub/Sacred-Blade/Content/Levels/TestMap_BuiltData.uasset" SILENT=true
 [2019.08.21-18.13.56:869][247]LogSavePackage: Moving '../../../../../../Users/KEOrlando/Documents/GitHub/Sacred-Blade/Saved/TestMap_BuiltData56C3F82144F457F1BA36BE9C9B337712.tmp' to '../../../../../../Users/KEOrlando/Documents/GitHub/Sacred-Blade/Content/Levels/TestMap_BuiltData.uasset'
+[2019.08.21-18.16.22:464][143]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/AllLevels/BP_GameInstance.BP_GameInstance
+[2019.08.21-18.16.34:838][968]LogBlueprintActionDatabase: Requesting refresh due to module change: ExternalImagePicker (loaded)
+[2019.08.21-18.16.35:734][968]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2019.08.21-18.16.48:254][513]LogLinker: Warning: Can't find file '/Game/Blueprints/Gameplay/BP_GameInstance'
+[2019.08.21-18.16.48:254][513]LogLinker: Warning: Can't find file '/Game/Blueprints/Gameplay/BP_GameInstance'
+[2019.08.21-18.16.48:254][513]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/Blueprints/Gameplay/BP_GameInstance.BP_GameInstance_C'
+[2019.08.21-18.16.56:599][957]LogSlate: Window 'Project Settings' being destroyed
+[2019.08.21-18.16.56:612][957]LogSlate: Window 'Project Settings' being destroyed
+[2019.08.21-18.17.31:590][524]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.21-18.17.31:613][524]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Levels/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.08.21-18.17.31:613][524]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.21-18.17.31:613][524]PIE: New page: PIE session: TestMap (Aug 21, 2019, 10:17:31 AM)
+[2019.08.21-18.17.31:654][524]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestMap
+[2019.08.21-18.17.31:658][524]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004376s)
+[2019.08.21-18.17.31:662][524]LogAIModule: Creating AISystem for world TestMap
+[2019.08.21-18.17.31:663][524]LogPlayLevel: PIE: World Init took: (0.004190s)
+[2019.08.21-18.17.31:663][524]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestMap.TestMap to /Game/Levels/UEDPIE_0_TestMap.TestMap (0.008818s)
+[2019.08.21-18.17.31:732][524]LogUObjectHash: Compacting FUObjectHashTables data took   5.04ms
+[2019.08.21-18.17.31:738][524]LogInit: XAudio2 using 'Headphones (Conexant ISST Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.21-18.17.31:747][524]LogInit: FAudioDevice initialized.
+[2019.08.21-18.17.31:788][524]LogLoad: Game class is 'Gameplay-GameMode_C'
+[2019.08.21-18.17.31:790][524]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2019.08.21-14.17.31
+[2019.08.21-18.17.31:791][524]LogWorld: Bringing up level for play took: 0.001615
+[2019.08.21-18.17.31:805][524]LogBlueprintActionDatabase: Requesting refresh due to module change: Voice (loaded)
+[2019.08.21-18.17.31:807][524]LogBlueprintActionDatabase: Requesting refresh due to module change: MovieSceneCapture (loaded)
+[2019.08.21-18.17.31:808][524]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2019.08.21-18.17.31:809][524]LogScript: Warning: Attempted to access missing property 'PlayerCount'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+	Gameplay-GameMode_C /Game/Levels/UEDPIE_0_TestMap.TestMap:PersistentLevel.Gameplay-GameMode_C_0
+	Function /Game/Blueprints/Gameplay/Gameplay-GameMode.Gameplay-GameMode_C:ExecuteUbergraph_Gameplay-GameMode:0308
+[2019.08.21-18.17.31:809][524]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'PlayerCount'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  Gameplay-GameMode Function:  Execute Ubergraph Gameplay- Game Mode Graph:  EventGraph Node:  Set InstancePlayerCount
+[2019.08.21-18.17.31:809][524]LogSlate: New Slate User Created.  User Index 1, Is Virtual User: 0
+[2019.08.21-18.17.31:809][524]LogSlate: Slate User Registered.  User Index 1, Is Virtual User: 0
+[2019.08.21-18.17.31:813][524]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_TestMap -0.343
+[2019.08.21-18.17.31:813][524]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Levels/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.08.21-18.17.34:284][625]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Levels/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.08.21-18.17.34:285][625]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.21-18.17.34:319][625]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.21-18.17.34:322][625]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Levels/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.08.21-18.17.34:369][625]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.21-18.17.34:416][625]LogUObjectHash: Compacting FUObjectHashTables data took   4.16ms
+[2019.08.21-18.17.34:465][626]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2019.08.21-18.17.36:467][725]LogSlate: Window 'Message Log' being destroyed
+[2019.08.21-18.17.36:476][725]LogSlate: Window 'Message Log' being destroyed
+[2019.08.21-18.17.38:033][810]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/UI/MainMenu/MainMenu.MainMenu
+[2019.08.21-18.17.38:444][810]LogBlueprintActionDatabase: Requesting refresh due to module change: SequencerWidgets (loaded)
+[2019.08.21-18.21.05:618][251]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/UI/MainMenu/Options.Options
+[2019.08.21-18.21.09:135][451]LogSlate: Window 'Options' being destroyed
+[2019.08.21-18.25.50:630][543]LogSlate: Took 0.014326 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2019.08.21-18.27.11:382][843]BlueprintLog: New page: Compile Options
+[2019.08.21-18.27.11:496][843]LogUObjectHash: Compacting FUObjectHashTables data took   6.18ms
+[2019.08.21-18.28.07:501][237]BlueprintLog: New page: Compile Options
+[2019.08.21-18.28.07:515][237]LogClass: Warning: Type mismatch in AllAvatars of Options_C - Previous (ObjectProperty) Current(ArrayProperty) for package:  FObjectReader
+[2019.08.21-18.28.07:560][237]LogUObjectHash: Compacting FUObjectHashTables data took   4.37ms
+[2019.08.21-18.29.38:850][124]LogTexture: Display: Building textures: bigfire_single (AutoDXT, 256X256)
+[2019.08.21-18.29.54:162][ 40]LogTexture: Display: Building textures: Circle_normal (BC5, 256X256)
+[2019.08.21-18.31.23:392][523]BlueprintLog: New page: Compile Options
+[2019.08.21-18.31.23:457][523]LogUObjectHash: Compacting FUObjectHashTables data took   4.29ms
+[2019.08.21-18.34.10:057][457]LogSlate: Window 'Change Variable Type' being destroyed
+[2019.08.21-18.34.13:277][625]LogSlate: Window 'Find in Blueprints' being destroyed
+[2019.08.21-18.34.13:282][625]LogSlate: Window 'Find in Blueprints' being destroyed
+[2019.08.21-18.39.43:952][ 10]LogUObjectHash: Compacting FUObjectHashTables data took   4.63ms
+[2019.08.21-18.39.43:952][ 10]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/TestMap' took 0.039
+[2019.08.21-18.39.43:955][ 10]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Gameplay/Gameplay-GameMode] ([1] browsable assets)...
+[2019.08.21-18.39.43:955][ 10]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Gameplay/Gameplay-GameMode]
+[2019.08.21-18.39.44:054][ 10]LogSavePackage: Moving '../../../../../../Users/KEOrlando/Documents/GitHub/Sacred-Blade/Saved/Gameplay-GameMode_Auto12D33FADA451A45FA408818BD2C6FDDFA.tmp' to '../../../../../../Users/KEOrlando/Documents/GitHub/Sacred-Blade/Saved/Autosaves/Game/Blueprints/Gameplay/Gameplay-GameMode_Auto1.uasset'
+[2019.08.21-18.39.44:056][ 10]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/MainMenu/Options] ([1] browsable assets)...
+[2019.08.21-18.39.44:056][ 10]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/MainMenu/Options]
+[2019.08.21-18.39.44:131][ 10]LogSavePackage: Moving '../../../../../../Users/KEOrlando/Documents/GitHub/Sacred-Blade/Saved/Options_Auto1C568EDE04B9F1B5DF9DDAAB5373F19A0.tmp' to '../../../../../../Users/KEOrlando/Documents/GitHub/Sacred-Blade/Saved/Autosaves/Game/UI/MainMenu/Options_Auto1.uasset'
+[2019.08.21-18.39.44:132][ 10]LogFileHelpers: Auto-saving content packages took 0.179
+[2019.08.21-18.43.32:515][934]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/UI/MainMenu/HostMenu.HostMenu
+[2019.08.21-18.44.05:224][869]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu/HostMenu" FILE="../../../../../../Users/KEOrlando/Documents/GitHub/Sacred-Blade/Content/UI/MainMenu/HostMenu.uasset" SILENT=true
+[2019.08.21-18.44.05:298][869]LogSavePackage: Moving '../../../../../../Users/KEOrlando/Documents/GitHub/Sacred-Blade/Saved/HostMenu3E7C35184CA593BCE66B6C9E6BA116D0.tmp' to '../../../../../../Users/KEOrlando/Documents/GitHub/Sacred-Blade/Content/UI/MainMenu/HostMenu.uasset'
+[2019.08.21-18.44.23:935][121]BlueprintLog: New page: Compile Options
+[2019.08.21-18.44.23:951][121]LogClass: Warning: Type mismatch in AvatarCount of Options_C - Previous (ArrayProperty) Current(IntProperty) for package:  FObjectReader
+[2019.08.21-18.44.24:002][121]LogUObjectHash: Compacting FUObjectHashTables data took   4.81ms
+[2019.08.21-18.44.25:087][184]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu/Options" FILE="../../../../../../Users/KEOrlando/Documents/GitHub/Sacred-Blade/Content/UI/MainMenu/Options.uasset" SILENT=true
+[2019.08.21-18.44.25:168][184]LogSavePackage: Moving '../../../../../../Users/KEOrlando/Documents/GitHub/Sacred-Blade/Saved/Options9F5ADC324BFB63A8E7412E988813175E.tmp' to '../../../../../../Users/KEOrlando/Documents/GitHub/Sacred-Blade/Content/UI/MainMenu/Options.uasset'
+[2019.08.21-18.44.28:688][389]LogSlate: Took 0.009663 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2019.08.21-18.46.08:404][846]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.21-18.46.08:440][846]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Levels/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.08.21-18.46.08:440][846]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.08.21-18.46.08:444][846]LogPlayLevel: [PlayLevel] Compiling Options before play...
+[2019.08.21-18.46.08:670][846]LogUObjectHash: Compacting FUObjectHashTables data took   4.43ms
+[2019.08.21-18.46.08:670][846]LogPlayLevel: PlayLevel: Blueprint regeneration took 230 ms (1 blueprints)
+[2019.08.21-18.46.08:670][846]PIE: New page: PIE session: TestMap (Aug 21, 2019, 10:46:08 AM)
+[2019.08.21-18.46.08:688][846]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestMap
+[2019.08.21-18.46.08:693][846]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004684s)
+[2019.08.21-18.46.08:693][846]LogAIModule: Creating AISystem for world TestMap
+[2019.08.21-18.46.08:693][846]LogPlayLevel: PIE: World Init took: (0.000640s)
+[2019.08.21-18.46.08:693][846]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestMap.TestMap to /Game/Levels/UEDPIE_0_TestMap.TestMap (0.005455s)
+[2019.08.21-18.46.08:728][846]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2019.08.21-18.46.08:734][846]LogInit: XAudio2 using 'Headphones (Conexant ISST Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.21-18.46.08:743][846]LogInit: FAudioDevice initialized.
+[2019.08.21-18.46.08:750][846]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.21-18.46.08:782][846]LogLoad: Game class is 'Gameplay-GameMode_C'
+[2019.08.21-18.46.08:786][846]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestMap.TestMap up for play (max tick rate 60) at 2019.08.21-14.46.08
+[2019.08.21-18.46.08:787][846]LogWorld: Bringing up level for play took: 0.002246
+[2019.08.21-18.46.08:802][846]LogScript: Warning: Attempted to access missing property 'PlayerCount'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+	Gameplay-GameMode_C /Game/Levels/UEDPIE_0_TestMap.TestMap:PersistentLevel.Gameplay-GameMode_C_0
+	Function /Game/Blueprints/Gameplay/Gameplay-GameMode.Gameplay-GameMode_C:ExecuteUbergraph_Gameplay-GameMode:0308
+[2019.08.21-18.46.08:803][846]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'PlayerCount'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  Gameplay-GameMode Function:  Execute Ubergraph Gameplay- Game Mode Graph:  EventGraph Node:  Set InstancePlayerCount
+[2019.08.21-18.46.08:810][846]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_TestMap 0.654
+[2019.08.21-18.46.08:810][846]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Levels/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.08.21-18.46.08:865][848]LogRenderer: Reallocating scene render targets to support 1272x688 Format 10 NumSamples 1 (Frame:1).
+[2019.08.21-18.46.10:972][915]LogSlate: Window 'SacredBlade Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.08.21-18.46.10:993][915]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Levels/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.08.21-18.46.11:021][915]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.21-18.46.11:021][915]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Levels/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.08.21-18.46.11:071][915]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2019.08.21-18.46.11:104][916]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2019.08.21-18.46.15:168][160]LogSlate: Window 'Message Log' being destroyed
+[2019.08.21-18.46.15:173][160]LogSlate: Window 'Message Log' being destroyed
+[2019.08.21-18.48.19:524][ 77]BlueprintLog: New page: Compile Options
+[2019.08.21-18.48.19:738][ 77]LogUObjectHash: Compacting FUObjectHashTables data took   4.60ms
+[2019.08.21-18.48.37:577][143]BlueprintLog: New page: Compile Options
+[2019.08.21-18.48.37:791][143]LogUObjectHash: Compacting FUObjectHashTables data took   4.41ms
+[2019.08.21-18.49.39:100][751]BlueprintLog: New page: Compile Options
+[2019.08.21-18.49.39:323][751]LogUObjectHash: Compacting FUObjectHashTables data took   5.85ms
+[2019.08.21-18.49.40:084][790]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu/Options" FILE="../../../../../../Users/KEOrlando/Documents/GitHub/Sacred-Blade/Content/UI/MainMenu/Options.uasset" SILENT=true
+[2019.08.21-18.49.40:180][790]LogSavePackage: Moving '../../../../../../Users/KEOrlando/Documents/GitHub/Sacred-Blade/Saved/Options99AE3D2B48CD76A7697AEB8A8B5EA546.tmp' to '../../../../../../Users/KEOrlando/Documents/GitHub/Sacred-Blade/Content/UI/MainMenu/Options.uasset'
+[2019.08.21-18.49.43:499][986]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Levels/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.08.21-18.49.43:499][986]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.21-18.49.43:499][986]PIE: New page: PIE session: TestMap (Aug 21, 2019, 10:49:43 AM)
+[2019.08.21-18.49.43:512][986]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestMap
+[2019.08.21-18.49.43:517][986]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004535s)
+[2019.08.21-18.49.43:518][986]LogAIModule: Creating AISystem for world TestMap
+[2019.08.21-18.49.43:518][986]LogPlayLevel: PIE: World Init took: (0.000588s)
+[2019.08.21-18.49.43:518][986]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestMap.TestMap to /Game/Levels/UEDPIE_0_TestMap.TestMap (0.005262s)
+[2019.08.21-18.49.43:555][986]LogUObjectHash: Compacting FUObjectHashTables data took   4.42ms
+[2019.08.21-18.49.43:562][986]LogInit: XAudio2 using 'Headphones (Conexant ISST Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.21-18.49.43:571][986]LogInit: FAudioDevice initialized.
+[2019.08.21-18.49.43:578][986]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.21-18.49.43:605][986]LogLoad: Game class is 'Gameplay-GameMode_C'
+[2019.08.21-18.49.43:606][986]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestMap.TestMap up for play (max tick rate 60) at 2019.08.21-14.49.43
+[2019.08.21-18.49.43:607][986]LogWorld: Bringing up level for play took: 0.001082
+[2019.08.21-18.49.43:622][986]LogScript: Warning: Attempted to access missing property 'PlayerCount'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+	Gameplay-GameMode_C /Game/Levels/UEDPIE_0_TestMap.TestMap:PersistentLevel.Gameplay-GameMode_C_0
+	Function /Game/Blueprints/Gameplay/Gameplay-GameMode.Gameplay-GameMode_C:ExecuteUbergraph_Gameplay-GameMode:0308
+[2019.08.21-18.49.43:622][986]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'PlayerCount'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  Gameplay-GameMode Function:  Execute Ubergraph Gameplay- Game Mode Graph:  EventGraph Node:  Set InstancePlayerCount
+[2019.08.21-18.49.43:628][986]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_TestMap -0.528
+[2019.08.21-18.49.43:629][986]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Levels/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.08.21-18.49.45:266][ 39]LogSlate: Window 'SacredBlade Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.08.21-18.49.45:287][ 39]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Levels/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.08.21-18.49.45:318][ 39]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.21-18.49.45:318][ 39]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Levels/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.08.21-18.49.45:370][ 39]LogUObjectHash: Compacting FUObjectHashTables data took   3.32ms
+[2019.08.21-18.49.45:410][ 40]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2019.08.21-18.49.50:949][369]LogSlate: Window 'Message Log' being destroyed
+[2019.08.21-18.49.50:955][369]LogSlate: Window 'Message Log' being destroyed
+[2019.08.21-18.53.52:842][423]BlueprintLog: New page: Compile Options
+[2019.08.21-18.53.53:072][423]LogUObjectHash: Compacting FUObjectHashTables data took   4.82ms
+[2019.08.21-18.53.53:674][457]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu/Options" FILE="../../../../../../Users/KEOrlando/Documents/GitHub/Sacred-Blade/Content/UI/MainMenu/Options.uasset" SILENT=true
+[2019.08.21-18.53.53:767][457]LogSavePackage: Moving '../../../../../../Users/KEOrlando/Documents/GitHub/Sacred-Blade/Saved/Options93A3D4FD4AE95DCA9F1E1F8618D512B9.tmp' to '../../../../../../Users/KEOrlando/Documents/GitHub/Sacred-Blade/Content/UI/MainMenu/Options.uasset'
+[2019.08.21-18.54.25:570][920]BlueprintLog: New page: Compile Options
+[2019.08.21-18.54.25:804][920]LogUObjectHash: Compacting FUObjectHashTables data took   4.87ms
+[2019.08.21-18.54.26:664][970]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu/Options" FILE="../../../../../../Users/KEOrlando/Documents/GitHub/Sacred-Blade/Content/UI/MainMenu/Options.uasset" SILENT=true
+[2019.08.21-18.54.26:753][970]LogSavePackage: Moving '../../../../../../Users/KEOrlando/Documents/GitHub/Sacred-Blade/Saved/OptionsEB30E09144170FFB739311AE169321FA.tmp' to '../../../../../../Users/KEOrlando/Documents/GitHub/Sacred-Blade/Content/UI/MainMenu/Options.uasset'
+[2019.08.21-18.54.31:798][267]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.08.21-18.54.31:834][267]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Levels/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.08.21-18.54.31:835][267]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.21-18.54.31:835][267]PIE: New page: PIE session: TestMap (Aug 21, 2019, 10:54:31 AM)
+[2019.08.21-18.54.31:849][267]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestMap
+[2019.08.21-18.54.31:854][267]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005030s)
+[2019.08.21-18.54.31:855][267]LogAIModule: Creating AISystem for world TestMap
+[2019.08.21-18.54.31:855][267]LogPlayLevel: PIE: World Init took: (0.000757s)
+[2019.08.21-18.54.31:855][267]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestMap.TestMap to /Game/Levels/UEDPIE_0_TestMap.TestMap (0.005946s)
+[2019.08.21-18.54.31:897][267]LogUObjectHash: Compacting FUObjectHashTables data took   3.84ms
+[2019.08.21-18.54.31:904][267]LogInit: XAudio2 using 'Headphones (Conexant ISST Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.21-18.54.31:912][267]LogInit: FAudioDevice initialized.
+[2019.08.21-18.54.31:919][267]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.21-18.54.31:952][267]LogLoad: Game class is 'Gameplay-GameMode_C'
+[2019.08.21-18.54.31:954][267]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestMap.TestMap up for play (max tick rate 60) at 2019.08.21-14.54.31
+[2019.08.21-18.54.31:954][267]LogWorld: Bringing up level for play took: 0.001481
+[2019.08.21-18.54.31:966][267]LogScript: Warning: Attempted to access missing property 'PlayerCount'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+	Gameplay-GameMode_C /Game/Levels/UEDPIE_0_TestMap.TestMap:PersistentLevel.Gameplay-GameMode_C_0
+	Function /Game/Blueprints/Gameplay/Gameplay-GameMode.Gameplay-GameMode_C:ExecuteUbergraph_Gameplay-GameMode:0308
+[2019.08.21-18.54.31:966][267]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'PlayerCount'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  Gameplay-GameMode Function:  Execute Ubergraph Gameplay- Game Mode Graph:  EventGraph Node:  Set InstancePlayerCount
+[2019.08.21-18.54.31:970][267]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_TestMap -0.185
+[2019.08.21-18.54.31:970][267]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Levels/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.08.21-18.54.33:520][317]LogSlate: Window 'SacredBlade Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.08.21-18.54.33:541][317]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Levels/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.08.21-18.54.33:567][317]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.21-18.54.33:567][317]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Levels/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.08.21-18.54.33:621][317]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2019.08.21-18.54.33:656][318]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2019.08.21-18.54.36:388][481]LogSlate: Window 'Message Log' being destroyed
+[2019.08.21-18.54.36:393][481]LogSlate: Window 'Message Log' being destroyed
+[2019.08.21-18.55.06:977][919]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2019.08.21-18.55.35:782][ 49]LogSlate: Window 'Project Settings' being destroyed
+[2019.08.21-18.55.35:788][ 49]LogSlate: Window 'Project Settings' being destroyed
+[2019.08.21-18.55.37:584][117]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.08.21-18.55.37:607][117]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Levels/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.08.21-18.55.37:607][117]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.21-18.55.37:607][117]PIE: New page: PIE session: TestMap (Aug 21, 2019, 10:55:37 AM)
+[2019.08.21-18.55.37:607][117]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestMap
+[2019.08.21-18.55.37:612][117]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004560s)
+[2019.08.21-18.55.37:612][117]LogAIModule: Creating AISystem for world TestMap
+[2019.08.21-18.55.37:612][117]LogPlayLevel: PIE: World Init took: (0.000517s)
+[2019.08.21-18.55.37:612][117]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestMap.TestMap to /Game/Levels/UEDPIE_0_TestMap.TestMap (0.005214s)
+[2019.08.21-18.55.37:646][117]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2019.08.21-18.55.37:652][117]LogInit: XAudio2 using 'Headphones (Conexant ISST Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.21-18.55.37:661][117]LogInit: FAudioDevice initialized.
+[2019.08.21-18.55.37:668][117]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.21-18.55.37:702][117]LogLoad: Game class is 'Gameplay-GameMode_C'
+[2019.08.21-18.55.37:704][117]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestMap.TestMap up for play (max tick rate 60) at 2019.08.21-14.55.37
+[2019.08.21-18.55.37:704][117]LogWorld: Bringing up level for play took: 0.000991
+[2019.08.21-18.55.37:717][117]LogScript: Warning: Attempted to access missing property 'PlayerCount'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+	Gameplay-GameMode_C /Game/Levels/UEDPIE_0_TestMap.TestMap:PersistentLevel.Gameplay-GameMode_C_0
+	Function /Game/Blueprints/Gameplay/Gameplay-GameMode.Gameplay-GameMode_C:ExecuteUbergraph_Gameplay-GameMode:0308
+[2019.08.21-18.55.37:717][117]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'PlayerCount'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  Gameplay-GameMode Function:  Execute Ubergraph Gameplay- Game Mode Graph:  EventGraph Node:  Set InstancePlayerCount
+[2019.08.21-18.55.37:724][117]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_TestMap -0.432
+[2019.08.21-18.55.37:724][117]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Levels/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.08.21-18.55.39:520][176]LogSlate: Window 'SacredBlade Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.08.21-18.55.39:540][176]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Levels/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.08.21-18.55.39:572][176]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.21-18.55.39:573][176]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Levels/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.08.21-18.55.39:628][176]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2019.08.21-18.55.39:670][177]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2019.08.21-18.55.42:500][300]LogSlate: Window 'Message Log' being destroyed
+[2019.08.21-18.55.42:512][300]LogSlate: Window 'Message Log' being destroyed
+[2019.08.21-18.57.32:497][850]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2019.08.21-18.58.00:984][873]LogSlate: Window 'Project Settings' being destroyed
+[2019.08.21-18.58.00:991][873]LogSlate: Window 'Project Settings' being destroyed
+[2019.08.21-18.58.21:467][394]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.08.21-18.58.21:493][394]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Levels/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.08.21-18.58.21:493][394]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.21-18.58.21:493][394]PIE: New page: PIE session: TestMap (Aug 21, 2019, 10:58:21 AM)
+[2019.08.21-18.58.21:494][394]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestMap
+[2019.08.21-18.58.21:499][394]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005005s)
+[2019.08.21-18.58.21:499][394]LogAIModule: Creating AISystem for world TestMap
+[2019.08.21-18.58.21:499][394]LogPlayLevel: PIE: World Init took: (0.000728s)
+[2019.08.21-18.58.21:499][394]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestMap.TestMap to /Game/Levels/UEDPIE_0_TestMap.TestMap (0.005873s)
+[2019.08.21-18.58.21:535][394]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2019.08.21-18.58.21:541][394]LogInit: XAudio2 using 'Headphones (Conexant ISST Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.21-18.58.21:549][394]LogInit: FAudioDevice initialized.
+[2019.08.21-18.58.21:556][394]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.21-18.58.21:586][394]LogLoad: Game class is 'Gameplay-GameMode_C'
+[2019.08.21-18.58.21:589][394]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestMap.TestMap up for play (max tick rate 60) at 2019.08.21-14.58.21
+[2019.08.21-18.58.21:589][394]LogWorld: Bringing up level for play took: 0.001597
+[2019.08.21-18.58.21:601][394]LogScript: Warning: Attempted to access missing property 'PlayerCount'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+	Gameplay-GameMode_C /Game/Levels/UEDPIE_0_TestMap.TestMap:PersistentLevel.Gameplay-GameMode_C_0
+	Function /Game/Blueprints/Gameplay/Gameplay-GameMode.Gameplay-GameMode_C:ExecuteUbergraph_Gameplay-GameMode:0308
+[2019.08.21-18.58.21:601][394]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'PlayerCount'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  Gameplay-GameMode Function:  Execute Ubergraph Gameplay- Game Mode Graph:  EventGraph Node:  Set InstancePlayerCount
+[2019.08.21-18.58.21:605][394]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_TestMap -0.55
+[2019.08.21-18.58.21:605][394]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Levels/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.08.21-18.58.23:181][446]LogSlate: Window 'SacredBlade Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.08.21-18.58.23:203][446]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Levels/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.08.21-18.58.23:232][446]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.21-18.58.23:232][446]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Levels/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.08.21-18.58.23:282][446]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2019.08.21-18.58.23:320][447]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2019.08.21-18.58.28:457][692]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.08.21-18.59.39:604][871]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2019.08.21-18.59.41:597][930]LogSlate: Window 'Message Log' being destroyed
+[2019.08.21-18.59.41:604][930]LogSlate: Window 'Message Log' being destroyed
+[2019.08.21-19.00.36:380][ 93]LogSlate: Window 'Project Settings' being destroyed
+[2019.08.21-19.00.36:386][ 93]LogSlate: Window 'Project Settings' being destroyed
+[2019.08.21-19.00.37:403][132]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.08.21-19.00.37:430][132]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Levels/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.08.21-19.00.37:431][132]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.21-19.00.37:431][132]PIE: New page: PIE session: TestMap (Aug 21, 2019, 11:00:37 AM)
+[2019.08.21-19.00.37:431][132]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestMap
+[2019.08.21-19.00.37:436][132]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004603s)
+[2019.08.21-19.00.37:436][132]LogAIModule: Creating AISystem for world TestMap
+[2019.08.21-19.00.37:437][132]LogPlayLevel: PIE: World Init took: (0.000805s)
+[2019.08.21-19.00.37:437][132]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestMap.TestMap to /Game/Levels/UEDPIE_0_TestMap.TestMap (0.005542s)
+[2019.08.21-19.00.37:479][132]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2019.08.21-19.00.37:485][132]LogInit: XAudio2 using 'Headphones (Conexant ISST Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.21-19.00.37:495][132]LogInit: FAudioDevice initialized.
+[2019.08.21-19.00.37:503][132]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.21-19.00.37:533][132]LogLoad: Game class is 'Gameplay-GameMode_C'
+[2019.08.21-19.00.37:535][132]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestMap.TestMap up for play (max tick rate 60) at 2019.08.21-15.00.37
+[2019.08.21-19.00.37:535][132]LogWorld: Bringing up level for play took: 0.001370
+[2019.08.21-19.00.37:548][132]LogScript: Warning: Attempted to access missing property 'PlayerCount'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+	Gameplay-GameMode_C /Game/Levels/UEDPIE_0_TestMap.TestMap:PersistentLevel.Gameplay-GameMode_C_0
+	Function /Game/Blueprints/Gameplay/Gameplay-GameMode.Gameplay-GameMode_C:ExecuteUbergraph_Gameplay-GameMode:0308
+[2019.08.21-19.00.37:548][132]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'PlayerCount'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  Gameplay-GameMode Function:  Execute Ubergraph Gameplay- Game Mode Graph:  EventGraph Node:  Set InstancePlayerCount
+[2019.08.21-19.00.37:552][132]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_TestMap -0.603
+[2019.08.21-19.00.37:553][132]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Levels/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.08.21-19.00.38:913][175]LogSlate: Window 'SacredBlade Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.08.21-19.00.38:927][175]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Levels/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.08.21-19.00.38:958][175]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.21-19.00.38:958][175]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Levels/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.08.21-19.00.39:009][175]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2019.08.21-19.00.39:052][176]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2019.08.21-19.00.52:031][902]LogSlate: Window 'Message Log' being destroyed
+[2019.08.21-19.00.52:037][902]LogSlate: Window 'Message Log' being destroyed
+[2019.08.21-19.01.09:824][967]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.08.21-19.01.09:870][967]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Levels/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.08.21-19.01.09:870][967]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.21-19.01.09:870][967]PIE: New page: PIE session: TestMap (Aug 21, 2019, 11:01:09 AM)
+[2019.08.21-19.01.09:870][967]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestMap
+[2019.08.21-19.01.09:875][967]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004939s)
+[2019.08.21-19.01.09:876][967]LogAIModule: Creating AISystem for world TestMap
+[2019.08.21-19.01.09:876][967]LogPlayLevel: PIE: World Init took: (0.000550s)
+[2019.08.21-19.01.09:876][967]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestMap.TestMap to /Game/Levels/UEDPIE_0_TestMap.TestMap (0.005603s)
+[2019.08.21-19.01.09:917][967]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2019.08.21-19.01.09:924][967]LogInit: XAudio2 using 'Headphones (Conexant ISST Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.21-19.01.09:932][967]LogInit: FAudioDevice initialized.
+[2019.08.21-19.01.09:939][967]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.21-19.01.09:975][967]LogLoad: Game class is 'Gameplay-GameMode_C'
+[2019.08.21-19.01.09:977][967]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestMap.TestMap up for play (max tick rate 60) at 2019.08.21-15.01.09
+[2019.08.21-19.01.09:977][967]LogWorld: Bringing up level for play took: 0.001084
+[2019.08.21-19.01.09:990][967]LogScript: Warning: Attempted to access missing property 'PlayerCount'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+	Gameplay-GameMode_C /Game/Levels/UEDPIE_0_TestMap.TestMap:PersistentLevel.Gameplay-GameMode_C_0
+	Function /Game/Blueprints/Gameplay/Gameplay-GameMode.Gameplay-GameMode_C:ExecuteUbergraph_Gameplay-GameMode:0308
+[2019.08.21-19.01.09:990][967]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'PlayerCount'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  Gameplay-GameMode Function:  Execute Ubergraph Gameplay- Game Mode Graph:  EventGraph Node:  Set InstancePlayerCount
+[2019.08.21-19.01.09:993][967]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_TestMap -0.163
+[2019.08.21-19.01.09:993][967]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Levels/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.08.21-19.01.11:761][ 25]LogSlate: Window 'SacredBlade Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.08.21-19.01.11:784][ 25]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Levels/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.08.21-19.01.11:811][ 25]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.21-19.01.11:812][ 25]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Levels/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.08.21-19.01.11:863][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2019.08.21-19.01.11:899][ 26]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2019.08.21-19.01.28:561][743]LogSlate: Window 'Message Log' being destroyed
+[2019.08.21-19.01.28:574][743]LogSlate: Window 'Message Log' being destroyed
+[2019.08.21-19.01.46:562][214]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/AllLevels/BP_GameInstance.BP_GameInstance
+[2019.08.21-19.02.00:792][885]LogUObjectHash: Compacting FUObjectHashTables data took   7.55ms
+[2019.08.21-19.02.00:860][885]LogUObjectHash: Compacting FUObjectHashTables data took   4.45ms
+[2019.08.21-19.02.00:913][885]LogUObjectHash: Compacting FUObjectHashTables data took   3.87ms
+[2019.08.21-19.02.01:134][885]LogUObjectHash: Compacting FUObjectHashTables data took   3.86ms
+[2019.08.21-19.02.01:145][885]LogMetaData: Removing '/Game/Blueprints/AllLevels/BP_GameInfoInstance.BP_GameInfoInstance_C' ref from Metadata '/Game/Blueprints/AllLevels/BP_GameInstance.PackageMetaData'
+[2019.08.21-19.02.01:145][885]LogMetaData: Removing '/Game/Blueprints/AllLevels/BP_GameInfoInstance.BP_GameInfoInstance:DisplayErrorMessage.K2Node_Tunnel_0' ref from Metadata '/Game/Blueprints/AllLevels/BP_GameInstance.PackageMetaData'
+[2019.08.21-19.02.01:145][885]LogMetaData: Removing '/Game/Blueprints/AllLevels/BP_GameInfoInstance.BP_GameInfoInstance:DisplayErrorMessage.K2Node_Tunnel_1' ref from Metadata '/Game/Blueprints/AllLevels/BP_GameInstance.PackageMetaData'
+[2019.08.21-19.02.01:145][885]LogMetaData: Removing '/Game/Blueprints/AllLevels/BP_GameInfoInstance.BP_GameInfoInstance:NetErrorToString.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/AllLevels/BP_GameInstance.PackageMetaData'
+[2019.08.21-19.02.01:145][885]LogMetaData: Removing '/Game/Blueprints/AllLevels/BP_GameInfoInstance.BP_GameInfoInstance:NetErrorToString.K2Node_FunctionResult_0' ref from Metadata '/Game/Blueprints/AllLevels/BP_GameInstance.PackageMetaData'
+[2019.08.21-19.02.01:145][885]LogMetaData: Removing '/Game/Blueprints/AllLevels/BP_GameInfoInstance.BP_GameInfoInstance:TravelErrorToString.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/AllLevels/BP_GameInstance.PackageMetaData'
+[2019.08.21-19.02.01:145][885]LogMetaData: Removing '/Game/Blueprints/AllLevels/BP_GameInfoInstance.BP_GameInfoInstance:TravelErrorToString.K2Node_FunctionResult_0' ref from Metadata '/Game/Blueprints/AllLevels/BP_GameInstance.PackageMetaData'
+[2019.08.21-19.02.01:146][885]LogMetaData: Removing '/Game/Blueprints/AllLevels/BP_GameInfoInstance.SKEL_BP_GameInfoInstance_C' ref from Metadata '/Game/Blueprints/AllLevels/BP_GameInstance.PackageMetaData'
+[2019.08.21-19.02.01:224][885]LogSavePackage: Moving '../../../../../../Users/KEOrlando/Documents/GitHub/Sacred-Blade/Saved/BP_GameInfoInstanceE20B80814D8A10BAD32A3FA458858811.tmp' to '../../../../../../Users/KEOrlando/Documents/GitHub/Sacred-Blade/Content/Blueprints/AllLevels/BP_GameInfoInstance.uasset'
+[2019.08.21-19.02.01:255][885]LogSavePackage: Moving '../../../../../../Users/KEOrlando/Documents/GitHub/Sacred-Blade/Saved/BP_GameInstanceB2C8DECA4CE7CE73450E71A41DBAAD40.tmp' to '../../../../../../Users/KEOrlando/Documents/GitHub/Sacred-Blade/Content/Blueprints/AllLevels/BP_GameInstance.uasset'
+[2019.08.21-19.02.23:517][345]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.08.21-19.02.23:545][345]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Levels/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.08.21-19.02.23:545][345]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.08.21-19.02.23:557][345]LogPlayLevel: [PlayLevel] Compiling Gameplay-GameMode before play...
+[2019.08.21-19.02.23:567][345]LogBlueprint: Warning: [Compiler Gameplay-GameMode] Could not find a variable named "PlayerCount" in 'BP_GameInfoInstance_C'.
+Make sure 'BP_GameInfoInstance_C' has been compiled for  Get PlayerCount
+[2019.08.21-19.02.23:575][345]LogBlueprint: Error: [Compiler Gameplay-GameMode] The property associated with  Player Count  could not be found in '/Game/Blueprints/Gameplay/Gameplay-GameMode.Gameplay-GameMode_C'
+[2019.08.21-19.02.23:582][345]LogBlueprint: Warning: [Compiler Gameplay-GameMode] [3182.07] Compile of Gameplay-GameMode failed. 1 Fatal Issue(s) 1 Warning(s) [in 36 ms] (/Game/Blueprints/Gameplay/Gameplay-GameMode.Gameplay-GameMode)
+[2019.08.21-19.02.23:591][345]LogPlayLevel: [PlayLevel] Compiling HostMenu before play...
+[2019.08.21-19.02.23:606][345]LogPlayLevel: [PlayLevel] Compiling MainMenu before play...
+[2019.08.21-19.02.23:779][345]LogPlayLevel: [PlayLevel] Compiling Options before play...
+[2019.08.21-19.02.24:010][345]LogUObjectHash: Compacting FUObjectHashTables data took   4.53ms
+[2019.08.21-19.02.24:011][345]LogPlayLevel: PlayLevel: Blueprint regeneration took 465 ms (4 blueprints)
+[2019.08.21-19.02.24:011][345]BlueprintLog: Blueprint Gameplay-GameMode failed to compile
+[2019.08.21-19.02.26:821][345]LogSlate: Window 'Message' being destroyed
+[2019.08.21-19.02.31:935][576]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/TestMap" FILE="../../../../../../Users/KEOrlando/Documents/GitHub/Sacred-Blade/Content/Levels/TestMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.08.21-19.02.31:977][576]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2019.08.21-19.02.32:211][576]LogSavePackage: Moving '../../../../../../Users/KEOrlando/Documents/GitHub/Sacred-Blade/Saved/TestMap7E9F9D4E4A76402316DB85B258923A4F.tmp' to '../../../../../../Users/KEOrlando/Documents/GitHub/Sacred-Blade/Content/Levels/TestMap.umap'
+[2019.08.21-19.02.32:253][576]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/TestMap_BuiltData" FILE="../../../../../../Users/KEOrlando/Documents/GitHub/Sacred-Blade/Content/Levels/TestMap_BuiltData.uasset" SILENT=true
+[2019.08.21-19.02.32:286][576]LogSavePackage: Moving '../../../../../../Users/KEOrlando/Documents/GitHub/Sacred-Blade/Saved/TestMap_BuiltData7F9022D4428D262CD54D29A47940B40D.tmp' to '../../../../../../Users/KEOrlando/Documents/GitHub/Sacred-Blade/Content/Levels/TestMap_BuiltData.uasset'
+[2019.08.21-19.02.33:768][639]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/TestMap" FILE="../../../../../../Users/KEOrlando/Documents/GitHub/Sacred-Blade/Content/Levels/TestMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.08.21-19.02.33:817][639]LogUObjectHash: Compacting FUObjectHashTables data took   4.12ms
+[2019.08.21-19.02.34:039][639]LogSavePackage: Moving '../../../../../../Users/KEOrlando/Documents/GitHub/Sacred-Blade/Saved/TestMapDE81120B4BB8B5B360DF309810F702F4.tmp' to '../../../../../../Users/KEOrlando/Documents/GitHub/Sacred-Blade/Content/Levels/TestMap.umap'
+[2019.08.21-19.02.34:074][639]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/TestMap_BuiltData" FILE="../../../../../../Users/KEOrlando/Documents/GitHub/Sacred-Blade/Content/Levels/TestMap_BuiltData.uasset" SILENT=true
+[2019.08.21-19.02.34:100][639]LogSavePackage: Moving '../../../../../../Users/KEOrlando/Documents/GitHub/Sacred-Blade/Saved/TestMap_BuiltData7253D59E420838F9A57DB0894682206A.tmp' to '../../../../../../Users/KEOrlando/Documents/GitHub/Sacred-Blade/Content/Levels/TestMap_BuiltData.uasset'
+[2019.08.21-19.02.35:564][696]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.08.21-19.02.35:587][696]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Levels/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.08.21-19.02.35:587][696]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.21-19.02.37:749][696]LogSlate: Window 'Message' being destroyed
+[2019.08.21-19.02.37:756][696]PIE: New page: PIE session: TestMap (Aug 21, 2019, 11:02:37 AM)
+[2019.08.21-19.02.37:778][696]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestMap
+[2019.08.21-19.02.37:783][696]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004519s)
+[2019.08.21-19.02.37:783][696]LogAIModule: Creating AISystem for world TestMap
+[2019.08.21-19.02.37:783][696]LogPlayLevel: PIE: World Init took: (0.000704s)
+[2019.08.21-19.02.37:783][696]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestMap.TestMap to /Game/Levels/UEDPIE_0_TestMap.TestMap (0.005378s)
+[2019.08.21-19.02.37:823][696]LogUObjectHash: Compacting FUObjectHashTables data took   4.50ms
+[2019.08.21-19.02.37:829][696]LogInit: XAudio2 using 'Headphones (Conexant ISST Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.21-19.02.37:839][696]LogInit: FAudioDevice initialized.
+[2019.08.21-19.02.37:847][696]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.21-19.02.37:886][696]LogLoad: Game class is 'Gameplay-GameMode_C'
+[2019.08.21-19.02.37:893][696]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestMap.TestMap up for play (max tick rate 60) at 2019.08.21-15.02.37
+[2019.08.21-19.02.37:893][696]LogWorld: Bringing up level for play took: 0.001675
+[2019.08.21-19.02.37:907][696]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_TestMap 1.752
+[2019.08.21-19.02.37:908][696]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Levels/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.08.21-19.02.39:641][753]LogSlate: Window 'SacredBlade Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.08.21-19.02.39:656][753]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Levels/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.08.21-19.02.39:684][753]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.21-19.02.39:685][753]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Levels/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.08.21-19.02.39:734][753]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2019.08.21-19.02.39:748][754]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2019.08.21-19.02.44:092][907]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/AllLevels/PlayerSaveGame.PlayerSaveGame
+[2019.08.21-19.03.19:901][301]LogAssetEditorManager: Opening Asset editor for UserDefinedStruct /Game/Blueprints/AllLevels/PlayerInfo.PlayerInfo
+[2019.08.21-19.04.07:168][ 64]LogSavePackage: Moving '../../../../../../Users/KEOrlando/Documents/GitHub/Sacred-Blade/Saved/PlayerSaveGameDEB5D1464D1834DAC3276CA17F4E7EC8.tmp' to '../../../../../../Users/KEOrlando/Documents/GitHub/Sacred-Blade/Content/Blueprints/AllLevels/PlayerSaveGame.uasset'
+[2019.08.21-19.04.42:629][277]LogAssetEditorManager: Opening Asset editor for World /Game/Levels/TestMap.TestMap
+[2019.08.21-19.04.42:664][277]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2019.08.21-19.04.44:098][277]LogSlate: Window 'Save Content' being destroyed
+[2019.08.21-19.04.44:207][277]LogSavePackage: Moving '../../../../../../Users/KEOrlando/Documents/GitHub/Sacred-Blade/Saved/Gameplay-GameMode31463F1E489094E8F4437E9A9DF72DC0.tmp' to '../../../../../../Users/KEOrlando/Documents/GitHub/Sacred-Blade/Content/Blueprints/Gameplay/Gameplay-GameMode.uasset'
+[2019.08.21-19.04.44:210][277]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu/HostMenu" FILE="../../../../../../Users/KEOrlando/Documents/GitHub/Sacred-Blade/Content/UI/MainMenu/HostMenu.uasset" SILENT=true
+[2019.08.21-19.04.44:279][277]LogSavePackage: Moving '../../../../../../Users/KEOrlando/Documents/GitHub/Sacred-Blade/Saved/HostMenuC531EC7E4B1DD6B301EC829F67F9933F.tmp' to '../../../../../../Users/KEOrlando/Documents/GitHub/Sacred-Blade/Content/UI/MainMenu/HostMenu.uasset'
+[2019.08.21-19.04.44:283][277]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu/MainMenu" FILE="../../../../../../Users/KEOrlando/Documents/GitHub/Sacred-Blade/Content/UI/MainMenu/MainMenu.uasset" SILENT=true
+[2019.08.21-19.04.44:328][277]LogSavePackage: Moving '../../../../../../Users/KEOrlando/Documents/GitHub/Sacred-Blade/Saved/MainMenu5AF82DC741B054E894A5D38B1DD5D8BA.tmp' to '../../../../../../Users/KEOrlando/Documents/GitHub/Sacred-Blade/Content/UI/MainMenu/MainMenu.uasset'
+[2019.08.21-19.04.44:330][277]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu/Options" FILE="../../../../../../Users/KEOrlando/Documents/GitHub/Sacred-Blade/Content/UI/MainMenu/Options.uasset" SILENT=true
+[2019.08.21-19.04.44:418][277]LogSavePackage: Moving '../../../../../../Users/KEOrlando/Documents/GitHub/Sacred-Blade/Saved/Options760B06D14D793C669CE8068537853905.tmp' to '../../../../../../Users/KEOrlando/Documents/GitHub/Sacred-Blade/Content/UI/MainMenu/Options.uasset'
+[2019.08.21-19.04.44:426][277]Cmd: MAP LOAD FILE="../../../../../../Users/KEOrlando/Documents/GitHub/Sacred-Blade/Content/Levels/TestMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.08.21-19.04.44:426][277]LightingResults: New page: Lighting Build
+[2019.08.21-19.04.44:427][277]LoadErrors: New page: Loading map: TestMap.umap
+[2019.08.21-19.04.44:428][277]MapCheck: New page: Map Check
+[2019.08.21-19.04.44:428][277]LightingResults: New page: Lighting Build
+[2019.08.21-19.04.44:476][277]LogUObjectHash: Compacting FUObjectHashTables data took   4.07ms
+[2019.08.21-19.04.44:715][277]LogLinker: Warning: Can't find file '/Game/Mannequin/Character/Textures/UE4_LOGO_CARD'
+[2019.08.21-19.04.44:716][277]LogLinker: Warning: Can't find file for asset '/Game/Mannequin/Character/Textures/UE4_LOGO_CARD' while loading NULL.
+[2019.08.21-19.04.44:716][277]LogLinker: Warning: Can't find file '/Game/Mannequin/Character/Textures/UE4_LOGO_CARD'
+[2019.08.21-19.04.44:716][277]LogLinker: Warning: Can't find file for asset '/Game/Mannequin/Character/Textures/UE4_LOGO_CARD' while loading NULL.
+[2019.08.21-19.04.44:719][277]LogLinker: Warning: Can't find file '/Game/Mannequin/Character/Textures/UE4_Mannequin__normals'
+[2019.08.21-19.04.44:719][277]LogLinker: Warning: Can't find file for asset '/Game/Mannequin/Character/Textures/UE4_Mannequin__normals' while loading NULL.
+[2019.08.21-19.04.44:719][277]LogLinker: Warning: Can't find file '/Game/Mannequin/Character/Textures/UE4_Mannequin_MAT_MASKA'
+[2019.08.21-19.04.44:719][277]LogLinker: Warning: Can't find file for asset '/Game/Mannequin/Character/Textures/UE4_Mannequin_MAT_MASKA' while loading NULL.
+[2019.08.21-19.04.44:719][277]LogLinker: Warning: Can't find file '/Game/Mannequin/Character/Textures/UE4_Mannequin__normals'
+[2019.08.21-19.04.44:719][277]LogLinker: Warning: Can't find file for asset '/Game/Mannequin/Character/Textures/UE4_Mannequin__normals' while loading NULL.
+[2019.08.21-19.04.44:720][277]LogLinker: Warning: Can't find file '/Game/Mannequin/Character/Textures/UE4_Mannequin_MAT_MASKA'
+[2019.08.21-19.04.44:720][277]LogLinker: Warning: Can't find file for asset '/Game/Mannequin/Character/Textures/UE4_Mannequin_MAT_MASKA' while loading NULL.
+[2019.08.21-19.04.44:720][277]LogLinker: Warning: Can't find file '/Game/Mannequin/Character/Textures/UE4Man_Logo_N'
+[2019.08.21-19.04.44:721][277]LogLinker: Warning: Can't find file for asset '/Game/Mannequin/Character/Textures/UE4Man_Logo_N' while loading NULL.
+[2019.08.21-19.04.44:721][277]LogLinker: Warning: Can't find file '/Game/Mannequin/Character/Textures/UE4Man_Logo_N'
+[2019.08.21-19.04.44:721][277]LogLinker: Warning: Can't find file for asset '/Game/Mannequin/Character/Textures/UE4Man_Logo_N' while loading NULL.
+[2019.08.21-19.04.44:787][277]LogAIModule: Creating AISystem for world TestMap
+[2019.08.21-19.04.44:912][277]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.08.21-19.04.44:956][277]LogUObjectHash: Compacting FUObjectHashTables data took   3.46ms
+[2019.08.21-19.04.44:984][277]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.08.21-19.04.44:984][277]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.136ms to complete.
+[2019.08.21-19.04.44:985][277]LogFileHelpers: Loading map 'TestMap' took 0.561
+[2019.08.21-19.04.59:449][825]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.08.21-19.05.11:601][546]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2019.08.21-19.05.11:810][546]LogSlate: Window 'SacredBlade - Unreal Editor' being destroyed
+[2019.08.21-19.05.12:072][547]Cmd: QUIT_EDITOR
+[2019.08.21-19.05.12:691][547]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.08.21-19.05.12:704][547]LogExit: Preparing to exit.
+[2019.08.21-19.05.13:053][547]LogExit: Editor shut down
+[2019.08.21-19.05.13:054][547]LogExit: Transaction tracking system shut down
+[2019.08.21-19.05.13:453][547]LogExit: Object subsystem successfully closed.
+[2019.08.21-19.05.13:482][547]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.08.21-19.05.13:493][547]LogD3D11RHI: Shutdown
+[2019.08.21-19.05.13:493][547]LogD3D11RHI: CleanupD3DDevice
+[2019.08.21-19.05.13:494][547]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.08.21-19.05.13:494][547]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.08.21-19.05.13:494][547]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.08.21-19.05.13:494][547]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.08.21-19.05.13:494][547]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.08.21-19.05.13:494][547]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.08.21-19.05.13:703][547]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.08.21-19.05.13:737][547]LogModuleManager: Shutting down and abandoning module SequencerWidgets (656)
+[2019.08.21-19.05.13:737][547]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (654)
+[2019.08.21-19.05.13:737][547]LogModuleManager: Shutting down and abandoning module Voice (652)
+[2019.08.21-19.05.13:737][547]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (650)
+[2019.08.21-19.05.13:737][547]LogModuleManager: Shutting down and abandoning module BlueprintGraph (648)
+[2019.08.21-19.05.13:737][547]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (646)
+[2019.08.21-19.05.13:737][547]LogModuleManager: Shutting down and abandoning module AddContentDialog (644)
+[2019.08.21-19.05.13:740][547]LogModuleManager: Shutting down and abandoning module WidgetCarousel (643)
+[2019.08.21-19.05.13:740][547]LogModuleManager: Shutting down and abandoning module EditorWidgets (640)
+[2019.08.21-19.05.13:740][547]LogModuleManager: Shutting down and abandoning module CollectionManager (638)
+[2019.08.21-19.05.13:740][547]LogModuleManager: Shutting down and abandoning module MeshBuilder (636)
+[2019.08.21-19.05.13:740][547]LogModuleManager: Shutting down and abandoning module StatsViewer (634)
+[2019.08.21-19.05.13:740][547]LogModuleManager: Shutting down and abandoning module FoliageEdit (632)
+[2019.08.21-19.05.13:740][547]LogModuleManager: Shutting down and abandoning module LandscapeEditor (630)
+[2019.08.21-19.05.13:740][547]LogModuleManager: Shutting down and abandoning module MeshPaintMode (628)
+[2019.08.21-19.05.13:740][547]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (626)
+[2019.08.21-19.05.13:741][547]LogModuleManager: Shutting down and abandoning module ActorPickerMode (624)
+[2019.08.21-19.05.13:741][547]LogModuleManager: Shutting down and abandoning module GeometryMode (622)
+[2019.08.21-19.05.13:741][547]LogModuleManager: Shutting down and abandoning module TextureAlignMode (620)
+[2019.08.21-19.05.13:741][547]LogModuleManager: Shutting down and abandoning module BspMode (618)
+[2019.08.21-19.05.13:741][547]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (616)
+[2019.08.21-19.05.13:741][547]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (614)
+[2019.08.21-19.05.13:741][547]LogModuleManager: Shutting down and abandoning module AutomationWorker (612)
+[2019.08.21-19.05.13:741][547]LogModuleManager: Shutting down and abandoning module OculusMR (610)
+[2019.08.21-19.05.13:741][547]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (608)
+[2019.08.21-19.05.13:741][547]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (606)
+[2019.08.21-19.05.13:741][547]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (604)
+[2019.08.21-19.05.13:741][547]LogModuleManager: Shutting down and abandoning module PlacementMode (603)
+[2019.08.21-19.05.13:741][547]LogModuleManager: Shutting down and abandoning module MaterialEditor (602)
+[2019.08.21-19.05.13:741][547]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (598)
+[2019.08.21-19.05.13:741][547]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (596)
+[2019.08.21-19.05.13:741][547]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (594)
+[2019.08.21-19.05.13:741][547]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (592)
+[2019.08.21-19.05.13:741][547]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (590)
+[2019.08.21-19.05.13:741][547]LogModuleManager: Shutting down and abandoning module WebMMedia (588)
+[2019.08.21-19.05.13:741][547]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (586)
+[2019.08.21-19.05.13:741][547]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (584)
+[2019.08.21-19.05.13:741][547]LogModuleManager: Shutting down and abandoning module SequenceRecorder (583)
+[2019.08.21-19.05.13:741][547]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (580)
+[2019.08.21-19.05.13:741][547]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (578)
+[2019.08.21-19.05.13:741][547]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (576)
+[2019.08.21-19.05.13:741][547]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (574)
+[2019.08.21-19.05.13:741][547]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (572)
+[2019.08.21-19.05.13:741][547]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (570)
+[2019.08.21-19.05.13:741][547]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (568)
+[2019.08.21-19.05.13:741][547]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (566)
+[2019.08.21-19.05.13:741][547]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (564)
+[2019.08.21-19.05.13:741][547]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (562)
+[2019.08.21-19.05.13:741][547]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (560)
+[2019.08.21-19.05.13:741][547]LogModuleManager: Shutting down and abandoning module CharacterAI (558)
+[2019.08.21-19.05.13:741][547]LogModuleManager: Shutting down and abandoning module SmartSnapping (556)
+[2019.08.21-19.05.13:741][547]LogModuleManager: Shutting down and abandoning module SessionServices (554)
+[2019.08.21-19.05.13:741][547]LogModuleManager: Shutting down and abandoning module MeshPaint (552)
+[2019.08.21-19.05.13:741][547]LogModuleManager: Shutting down and abandoning module ViewportSnapping (550)
+[2019.08.21-19.05.13:741][547]LogModuleManager: Shutting down and abandoning module ViewportInteraction (548)
+[2019.08.21-19.05.13:741][547]LogModuleManager: Shutting down and abandoning module ClothPainter (546)
+[2019.08.21-19.05.13:741][547]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (545)
+[2019.08.21-19.05.13:741][547]LogModuleManager: Shutting down and abandoning module LogVisualizer (542)
+[2019.08.21-19.05.13:741][547]LogModuleManager: Shutting down and abandoning module IntroTutorials (540)
+[2019.08.21-19.05.13:742][547]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (539)
+[2019.08.21-19.05.13:742][547]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (536)
+[2019.08.21-19.05.13:742][547]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (534)
+[2019.08.21-19.05.13:742][547]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (532)
+[2019.08.21-19.05.13:742][547]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (530)
+[2019.08.21-19.05.13:742][547]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (529)
+[2019.08.21-19.05.14:792][547]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (526)
+[2019.08.21-19.05.14:792][547]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (524)
+[2019.08.21-19.05.14:792][547]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (522)
+[2019.08.21-19.05.14:792][547]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (520)
+[2019.08.21-19.05.14:792][547]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (518)
+[2019.08.21-19.05.14:792][547]LogModuleManager: Shutting down and abandoning module InputBindingEditor (516)
+[2019.08.21-19.05.14:792][547]LogModuleManager: Shutting down and abandoning module MergeActors (514)
+[2019.08.21-19.05.14:793][547]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (512)
+[2019.08.21-19.05.14:793][547]LogModuleManager: Shutting down and abandoning module LocalizationService (511)
+[2019.08.21-19.05.14:793][547]LogModuleManager: Shutting down and abandoning module HardwareTargeting (508)
+[2019.08.21-19.05.14:793][547]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (506)
+[2019.08.21-19.05.14:793][547]LogModuleManager: Shutting down and abandoning module UndoHistory (504)
+[2019.08.21-19.05.14:793][547]LogModuleManager: Shutting down and abandoning module XmlParser (502)
+[2019.08.21-19.05.14:793][547]LogModuleManager: Shutting down and abandoning module Blutility (500)
+[2019.08.21-19.05.14:793][547]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (498)
+[2019.08.21-19.05.14:793][547]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (497)
+[2019.08.21-19.05.14:794][547]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (494)
+[2019.08.21-19.05.14:795][547]LogModuleManager: Shutting down and abandoning module SettingsEditor (492)
+[2019.08.21-19.05.14:795][547]LogModuleManager: Shutting down and abandoning module ProjectLauncher (490)
+[2019.08.21-19.05.14:795][547]LogModuleManager: Shutting down and abandoning module SessionFrontend (488)
+[2019.08.21-19.05.14:795][547]LogModuleManager: Shutting down and abandoning module ProfilerClient (486)
+[2019.08.21-19.05.14:795][547]LogModuleManager: Shutting down and abandoning module DeviceManager (484)
+[2019.08.21-19.05.14:795][547]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (483)
+[2019.08.21-19.05.14:840][547]LogModuleManager: Shutting down and abandoning module AutomationController (480)
+[2019.08.21-19.05.14:840][547]LogModuleManager: Shutting down and abandoning module AutomationWindow (478)
+[2019.08.21-19.05.14:840][547]LogModuleManager: Shutting down and abandoning module Layers (476)
+[2019.08.21-19.05.14:840][547]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (474)
+[2019.08.21-19.05.14:840][547]LogModuleManager: Shutting down and abandoning module DetailCustomizations (472)
+[2019.08.21-19.05.14:840][547]LogModuleManager: Shutting down and abandoning module PackagesDialog (470)
+[2019.08.21-19.05.14:840][547]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (468)
+[2019.08.21-19.05.14:841][547]LogModuleManager: Shutting down and abandoning module Persona (466)
+[2019.08.21-19.05.14:841][547]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (465)
+[2019.08.21-19.05.14:841][547]LogModuleManager: Shutting down and abandoning module AnimGraph (463)
+[2019.08.21-19.05.14:841][547]LogModuleManager: Shutting down and abandoning module Kismet (460)
+[2019.08.21-19.05.14:852][547]LogModuleManager: Shutting down and abandoning module GraphEditor (458)
+[2019.08.21-19.05.14:852][547]LogModuleManager: Shutting down and abandoning module ClassViewer (456)
+[2019.08.21-19.05.14:853][547]LogModuleManager: Shutting down and abandoning module Toolbox (454)
+[2019.08.21-19.05.14:853][547]LogModuleManager: Shutting down and abandoning module ModuleUI (452)
+[2019.08.21-19.05.14:853][547]LogModuleManager: Shutting down and abandoning module MovieSceneTools (450)
+[2019.08.21-19.05.14:853][547]LogModuleManager: Shutting down and abandoning module OutputLog (448)
+[2019.08.21-19.05.14:853][547]LogModuleManager: Shutting down and abandoning module GammaUI (446)
+[2019.08.21-19.05.14:853][547]LogModuleManager: Shutting down and abandoning module Documentation (444)
+[2019.08.21-19.05.14:854][547]LogModuleManager: Shutting down and abandoning module LiveCoding (442)
+[2019.08.21-19.05.14:854][547]LogModuleManager: Shutting down and abandoning module LevelSequence (440)
+[2019.08.21-19.05.14:854][547]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (438)
+[2019.08.21-19.05.14:854][547]LogModuleManager: Shutting down and abandoning module MovieScene (436)
+[2019.08.21-19.05.14:854][547]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (434)
+[2019.08.21-19.05.14:854][547]LogModuleManager: Shutting down and abandoning module LauncherPlatform (432)
+[2019.08.21-19.05.14:854][547]LogModuleManager: Shutting down and abandoning module AnalyticsET (430)
+[2019.08.21-19.05.14:854][547]LogModuleManager: Shutting down and abandoning module PortalServices (428)
+[2019.08.21-19.05.14:854][547]LogModuleManager: Shutting down and abandoning module PortalRpc (426)
+[2019.08.21-19.05.14:854][547]LogModuleManager: Shutting down and abandoning module MessagingRpc (424)
+[2019.08.21-19.05.14:854][547]LogModuleManager: Shutting down and abandoning module AIModule (422)
+[2019.08.21-19.05.14:854][547]LogModuleManager: Shutting down and abandoning module GameplayDebugger (421)
+[2019.08.21-19.05.14:854][547]LogModuleManager: Shutting down and abandoning module AITestSuite (419)
+[2019.08.21-19.05.14:854][547]LogModuleManager: Shutting down and abandoning module NavigationSystem (417)
+[2019.08.21-19.05.14:854][547]LogModuleManager: Shutting down and abandoning module DesktopPlatform (414)
+[2019.08.21-19.05.14:854][547]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (412)
+[2019.08.21-19.05.14:857][547]LogModuleManager: Shutting down and abandoning module ProfilerService (410)
+[2019.08.21-19.05.14:925][547]LogModuleManager: Shutting down and abandoning module TaskGraph (408)
+[2019.08.21-19.05.14:925][547]LogModuleManager: Shutting down and abandoning module SteamVRController (406)
+[2019.08.21-19.05.14:925][547]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (404)
+[2019.08.21-19.05.14:925][547]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (402)
+[2019.08.21-19.05.14:925][547]LogModuleManager: Shutting down and abandoning module OculusEditor (400)
+[2019.08.21-19.05.14:925][547]LogModuleManager: Shutting down and abandoning module OculusInput (398)
+[2019.08.21-19.05.14:925][547]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (396)
+[2019.08.21-19.05.14:925][547]LogModuleManager: Shutting down and abandoning module EditableMesh (394)
+[2019.08.21-19.05.14:925][547]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (392)
+[2019.08.21-19.05.14:925][547]LogModuleManager: Shutting down and abandoning module CableComponent (390)
+[2019.08.21-19.05.14:925][547]LogModuleManager: Shutting down and abandoning module AudioCapture (388)
+[2019.08.21-19.05.14:925][547]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (386)
+[2019.08.21-19.05.14:925][547]LogModuleManager: Shutting down and abandoning module AndroidPermission (384)
+[2019.08.21-19.05.14:925][547]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (382)
+[2019.08.21-19.05.14:925][547]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (380)
+[2019.08.21-19.05.14:925][547]LogModuleManager: Shutting down and abandoning module MediaCompositing (378)
+[2019.08.21-19.05.14:925][547]LogModuleManager: Shutting down and abandoning module LinearTimecode (376)
+[2019.08.21-19.05.14:925][547]LogModuleManager: Shutting down and abandoning module ImgMedia (374)
+[2019.08.21-19.05.14:925][547]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (372)
+[2019.08.21-19.05.14:925][547]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (370)
+[2019.08.21-19.05.14:925][547]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (368)
+[2019.08.21-19.05.14:925][547]LogModuleManager: Shutting down and abandoning module HTML5Networking (366)
+[2019.08.21-19.05.14:925][547]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (364)
+[2019.08.21-19.05.14:925][547]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (362)
+[2019.08.21-19.05.14:925][547]LogModuleManager: Shutting down and abandoning module BackChannel (360)
+[2019.08.21-19.05.14:925][547]LogModuleManager: Shutting down and abandoning module AppleVision (358)
+[2019.08.21-19.05.14:925][547]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (356)
+[2019.08.21-19.05.14:925][547]LogModuleManager: Shutting down and abandoning module AppleImageUtils (354)
+[2019.08.21-19.05.14:925][547]LogModuleManager: Shutting down and abandoning module AlembicImporter (352)
+[2019.08.21-19.05.14:925][547]LogModuleManager: Shutting down and abandoning module AlembicLibrary (351)
+[2019.08.21-19.05.14:926][547]LogModuleManager: Shutting down and abandoning module GeometryCache (350)
+[2019.08.21-19.05.14:926][547]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (349)
+[2019.08.21-19.05.14:926][547]LogModuleManager: Shutting down and abandoning module VariantManagerContent (344)
+[2019.08.21-19.05.14:926][547]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (342)
+[2019.08.21-19.05.14:926][547]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (340)
+[2019.08.21-19.05.14:926][547]LogModuleManager: Shutting down and abandoning module PluginBrowser (338)
+[2019.08.21-19.05.14:926][547]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (336)
+[2019.08.21-19.05.14:926][547]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (334)
+[2019.08.21-19.05.14:926][547]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (332)
+[2019.08.21-19.05.14:926][547]LogModuleManager: Shutting down and abandoning module CryptoKeys (330)
+[2019.08.21-19.05.14:926][547]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (328)
+[2019.08.21-19.05.14:926][547]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (326)
+[2019.08.21-19.05.14:926][547]LogModuleManager: Shutting down and abandoning module UObjectPlugin (324)
+[2019.08.21-19.05.14:926][547]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (322)
+[2019.08.21-19.05.14:926][547]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (320)
+[2019.08.21-19.05.14:926][547]LogModuleManager: Shutting down and abandoning module GitSourceControl (318)
+[2019.08.21-19.05.14:926][547]LogModuleManager: Shutting down and abandoning module SourceControl (317)
+[2019.08.21-19.05.14:926][547]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (314)
+[2019.08.21-19.05.14:926][547]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (312)
+[2019.08.21-19.05.14:926][547]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (310)
+[2019.08.21-19.05.14:926][547]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (308)
+[2019.08.21-19.05.14:926][547]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (306)
+[2019.08.21-19.05.14:926][547]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (304)
+[2019.08.21-19.05.14:926][547]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (302)
+[2019.08.21-19.05.14:926][547]LogModuleManager: Shutting down and abandoning module Paper2DEditor (300)
+[2019.08.21-19.05.14:926][547]LogModuleManager: Shutting down and abandoning module SignificanceManager (298)
+[2019.08.21-19.05.14:926][547]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (296)
+[2019.08.21-19.05.14:926][547]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (294)
+[2019.08.21-19.05.14:926][547]LogModuleManager: Shutting down and abandoning module PhysXVehicles (292)
+[2019.08.21-19.05.14:926][547]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (290)
+[2019.08.21-19.05.14:927][547]LogModuleManager: Shutting down and abandoning module ApexDestructionEditor (288)
+[2019.08.21-19.05.14:927][547]LogModuleManager: Shutting down and abandoning module ApexDestruction (286)
+[2019.08.21-19.05.14:927][547]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2019.08.21-19.05.14:927][547]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2019.08.21-19.05.15:028][547]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2019.08.21-19.05.15:128][547]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (278)
+[2019.08.21-19.05.15:128][547]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (276)
+[2019.08.21-19.05.15:128][547]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (274)
+[2019.08.21-19.05.15:128][547]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (272)
+[2019.08.21-19.05.15:128][547]LogModuleManager: Shutting down and abandoning module MagicLeapController (270)
+[2019.08.21-19.05.15:128][547]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.08.21-19.05.15:128][547]LogSlate: Slate User Destroyed.  User Index 1, Is Virtual User: 0
+[2019.08.21-19.05.15:128][547]LogModuleManager: Shutting down and abandoning module MagicLeapAR (268)
+[2019.08.21-19.05.15:128][547]LogModuleManager: Shutting down and abandoning module AugmentedReality (267)
+[2019.08.21-19.05.15:128][547]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (264)
+[2019.08.21-19.05.15:128][547]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (262)
+[2019.08.21-19.05.15:128][547]LogModuleManager: Shutting down and abandoning module FacialAnimation (260)
+[2019.08.21-19.05.15:128][547]LogModuleManager: Shutting down and abandoning module DataValidation (258)
+[2019.08.21-19.05.15:128][547]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (256)
+[2019.08.21-19.05.15:128][547]LogModuleManager: Shutting down and abandoning module LevelEditor (255)
+[2019.08.21-19.05.15:130][547]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (254)
+[2019.08.21-19.05.15:130][547]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (252)
+[2019.08.21-19.05.15:130][547]LogModuleManager: Shutting down and abandoning module MainFrame (250)
+[2019.08.21-19.05.15:130][547]LogModuleManager: Shutting down and abandoning module HotReload (249)
+[2019.08.21-19.05.15:131][547]LogModuleManager: Shutting down and abandoning module ContentBrowser (245)
+[2019.08.21-19.05.15:134][547]LogModuleManager: Shutting down and abandoning module TreeMap (243)
+[2019.08.21-19.05.15:134][547]LogModuleManager: Shutting down and abandoning module AnimationSharing (240)
+[2019.08.21-19.05.15:134][547]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2019.08.21-19.05.15:134][547]LogModuleManager: Shutting down and abandoning module AISupportModule (236)
+[2019.08.21-19.05.15:134][547]LogModuleManager: Shutting down and abandoning module Paper2D (234)
+[2019.08.21-19.05.15:134][547]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (232)
+[2019.08.21-19.05.15:134][547]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (230)
+[2019.08.21-19.05.15:134][547]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2019.08.21-19.05.15:134][547]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2019.08.21-19.05.15:134][547]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2019.08.21-19.05.15:134][547]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2019.08.21-19.05.15:134][547]LogModuleManager: Shutting down and abandoning module Overlay (220)
+[2019.08.21-19.05.15:134][547]LogModuleManager: Shutting down and abandoning module OverlayEditor (219)
+[2019.08.21-19.05.15:134][547]LogModuleManager: Shutting down and abandoning module VREditor (216)
+[2019.08.21-19.05.15:134][547]LogModuleManager: Shutting down and abandoning module StringTableEditor (214)
+[2019.08.21-19.05.15:134][547]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (212)
+[2019.08.21-19.05.15:134][547]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (210)
+[2019.08.21-19.05.15:134][547]LogModuleManager: Shutting down and abandoning module FunctionalTesting (208)
+[2019.08.21-19.05.15:134][547]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (206)
+[2019.08.21-19.05.15:134][547]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (205)
+[2019.08.21-19.05.15:134][547]LogModuleManager: Shutting down and abandoning module UMG (202)
+[2019.08.21-19.05.15:134][547]LogModuleManager: Shutting down and abandoning module UMGEditor (201)
+[2019.08.21-19.05.15:134][547]LogModuleManager: Shutting down and abandoning module Sequencer (200)
+[2019.08.21-19.05.15:134][547]LogModuleManager: Shutting down and abandoning module MessageLog (197)
+[2019.08.21-19.05.15:135][547]LogModuleManager: Shutting down and abandoning module SlateReflector (192)
+[2019.08.21-19.05.15:135][547]LogModuleManager: Shutting down and abandoning module Slate (190)
+[2019.08.21-19.05.15:135][547]LogModuleManager: Shutting down and abandoning module EditorStyle (188)
+[2019.08.21-19.05.15:137][547]LogModuleManager: Shutting down and abandoning module UnrealEd (186)
+[2019.08.21-19.05.15:137][547]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2019.08.21-19.05.15:137][547]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2019.08.21-19.05.15:137][547]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2019.08.21-19.05.15:137][547]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2019.08.21-19.05.15:137][547]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2019.08.21-19.05.15:137][547]LogModuleManager: Shutting down and abandoning module Core (174)
+[2019.08.21-19.05.15:137][547]LogModuleManager: Shutting down and abandoning module KismetCompiler (172)
+[2019.08.21-19.05.15:137][547]LogModuleManager: Shutting down and abandoning module MeshUtilities (170)
+[2019.08.21-19.05.15:137][547]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (169)
+[2019.08.21-19.05.15:137][547]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (168)
+[2019.08.21-19.05.15:137][547]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (167)
+[2019.08.21-19.05.15:137][547]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (165)
+[2019.08.21-19.05.15:137][547]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (163)
+[2019.08.21-19.05.15:137][547]LogModuleManager: Shutting down and abandoning module MaterialBaking (159)
+[2019.08.21-19.05.15:137][547]LogModuleManager: Shutting down and abandoning module DerivedDataCache (154)
+[2019.08.21-19.05.15:183][547]LogDerivedDataCache: Shutdown
+[2019.08.21-19.05.15:183][547]LogModuleManager: Shutting down and abandoning module XGEController (152)
+[2019.08.21-19.05.15:183][547]LogModuleManager: Shutting down and abandoning module TargetPlatform (150)
+[2019.08.21-19.05.15:183][547]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (149)
+[2019.08.21-19.05.15:183][547]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (147)
+[2019.08.21-19.05.15:183][547]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (145)
+[2019.08.21-19.05.15:183][547]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (143)
+[2019.08.21-19.05.15:183][547]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (141)
+[2019.08.21-19.05.15:183][547]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (139)
+[2019.08.21-19.05.15:183][547]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (137)
+[2019.08.21-19.05.15:183][547]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (135)
+[2019.08.21-19.05.15:183][547]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (133)
+[2019.08.21-19.05.15:184][547]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (131)
+[2019.08.21-19.05.15:184][547]LogModuleManager: Shutting down and abandoning module ImageWrapper (130)
+[2019.08.21-19.05.15:184][547]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (127)
+[2019.08.21-19.05.15:184][547]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (125)
+[2019.08.21-19.05.15:184][547]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (123)
+[2019.08.21-19.05.15:184][547]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (121)
+[2019.08.21-19.05.15:184][547]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (119)
+[2019.08.21-19.05.15:193][547]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (117)
+[2019.08.21-19.05.15:194][547]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (115)
+[2019.08.21-19.05.15:194][547]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (113)
+[2019.08.21-19.05.15:194][547]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (111)
+[2019.08.21-19.05.15:194][547]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (109)
+[2019.08.21-19.05.15:198][547]LogModuleManager: Shutting down and abandoning module Messaging (107)
+[2019.08.21-19.05.15:198][547]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (105)
+[2019.08.21-19.05.15:202][547]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (103)
+[2019.08.21-19.05.15:202][547]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (101)
+[2019.08.21-19.05.15:227][547]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (99)
+[2019.08.21-19.05.15:227][547]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (97)
+[2019.08.21-19.05.15:227][547]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (95)
+[2019.08.21-19.05.15:227][547]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (93)
+[2019.08.21-19.05.15:227][547]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (91)
+[2019.08.21-19.05.15:227][547]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (89)
+[2019.08.21-19.05.15:227][547]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (87)
+[2019.08.21-19.05.15:227][547]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (85)
+[2019.08.21-19.05.15:227][547]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (83)
+[2019.08.21-19.05.15:227][547]LogModuleManager: Shutting down and abandoning module InputCore (80)
+[2019.08.21-19.05.15:227][547]LogModuleManager: Shutting down and abandoning module Settings (78)
+[2019.08.21-19.05.15:227][547]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (76)
+[2019.08.21-19.05.15:228][547]LogModuleManager: Shutting down and abandoning module PhysXCooking (74)
+[2019.08.21-19.05.15:228][547]LogModuleManager: Shutting down and abandoning module SteamVR (72)
+[2019.08.21-19.05.15:228][547]LogHMD: Freeing OpenVRDLLHandle.
+[2019.08.21-19.05.15:228][547]LogModuleManager: Shutting down and abandoning module OculusHMD (70)
+[2019.08.21-19.05.15:228][547]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (68)
+[2019.08.21-19.05.15:228][547]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (66)
+[2019.08.21-19.05.15:228][547]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (64)
+[2019.08.21-19.05.15:228][547]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (60)
+[2019.08.21-19.05.15:229][547]LogModuleManager: Shutting down and abandoning module XMPP (55)
+[2019.08.21-19.05.15:229][547]LogModuleManager: Shutting down and abandoning module WebSockets (54)
+[2019.08.21-19.05.15:258][547]LogModuleManager: Shutting down and abandoning module HTTP (51)
+[2019.08.21-19.05.15:258][547]LogHttp: Display: Http module shutting down, but needs to wait on 2 outstanding Http requests:
+[2019.08.21-19.05.15:258][547]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B1AA514E2-4840-B036-7708-6FADB4526C33%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=a6bf497541af98542439b98b423ff759%7Ccc5a91e9deaa4364a2576baf0c588284%7C37bc49c8-8504-4f3e-aa7c-f274aae56f3d&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.08.21-19.05.15:258][547]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B1AA514E2-4840-B036-7708-6FADB4526C33%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=a6bf497541af98542439b98b423ff759%7Ccc5a91e9deaa4364a2576baf0c588284%7C37bc49c8-8504-4f3e-aa7c-f274aae56f3d&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.08.21-19.05.15:264][547]LogModuleManager: Shutting down and abandoning module SSL (50)
+[2019.08.21-19.05.15:266][547]LogModuleManager: Shutting down and abandoning module WmfMedia (46)
+[2019.08.21-19.05.15:271][547]LogModuleManager: Shutting down and abandoning module Media (45)
+[2019.08.21-19.05.15:278][547]LogModuleManager: Shutting down and abandoning module MagicLeap (42)
+[2019.08.21-19.05.15:278][547]LogModuleManager: Shutting down and abandoning module DatasmithContent (40)
+[2019.08.21-19.05.15:278][547]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2019.08.21-19.05.15:278][547]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2019.08.21-19.05.15:278][547]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2019.08.21-19.05.15:279][547]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2019.08.21-19.05.15:279][547]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2019.08.21-19.05.15:279][547]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2019.08.21-19.05.15:279][547]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2019.08.21-19.05.15:281][547]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2019.08.21-19.05.15:281][547]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2019.08.21-19.05.15:281][547]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2019.08.21-19.05.15:281][547]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2019.08.21-19.05.15:281][547]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2019.08.21-19.05.15:281][547]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2019.08.21-19.05.15:281][547]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2019.08.21-19.05.15:281][547]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2019.08.21-19.05.15:281][547]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2019.08.21-19.05.15:281][547]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2019.08.21-19.05.15:281][547]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2019.08.21-19.05.15:281][547]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2019.08.21-19.05.15:295][547]LogExit: Exiting.
+[2019.08.21-19.05.15:307][547]Log file closed, 08/21/19 15:05:15
